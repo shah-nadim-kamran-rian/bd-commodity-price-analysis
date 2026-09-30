@@ -1,0 +1,37 @@
+commodity,market,n_low,n_high,avg_low,avg_high,low_vs_high_pct
+Edible Oil,Sylhet,8,13,196.39,158.86,23.6
+Edible Oil,Rajshahi,10,8,185.38,152.59,21.5
+Edible Oil,Karwan Bazar (Dhaka),17,15,184.79,154.99,19.2
+Edible Oil,Khulna,10,12,188.49,159.71,18.0
+Edible Oil,Chattogram,15,14,188.69,161.18,17.1
+Edible Oil,Barishal,4,5,176.47,164.21,7.5
+Garlic,Sylhet,2,5,182.98,138.56,32.1
+Garlic,Rajshahi,6,7,189.05,154.95,22.0
+Garlic,Chattogram,8,12,173.91,143.91,20.8
+Garlic,Karwan Bazar (Dhaka),19,18,170.53,149.3,14.2
+Garlic,Barishal,3,7,174.62,154.39,13.1
+Garlic,Khulna,8,10,160.52,148.3,8.2
+Lentil,Sylhet,9,7,133.08,110.62,20.3
+Lentil,Khulna,8,13,130.16,110.73,17.5
+Lentil,Barishal,4,8,136.35,117.48,16.1
+Lentil,Karwan Bazar (Dhaka),15,18,130.81,113.32,15.4
+Lentil,Rajshahi,10,11,133.18,117.31,13.5
+Lentil,Chattogram,21,10,132.2,117.92,12.1
+Onion,Barishal,5,10,106.93,83.14,28.6
+Onion,Rajshahi,14,10,93.66,80.9,15.8
+Onion,Chattogram,17,14,90.42,81.21,11.3
+Onion,Karwan Bazar (Dhaka),20,22,89.76,82.26,9.1
+Onion,Khulna,12,13,91.01,84.2,8.1
+Onion,Sylhet,10,4,89.74,89.46,0.3
+Potato,Rajshahi,11,21,35.49,28.61,24.0
+Potato,Khulna,7,14,33.82,29.06,16.4
+Potato,Sylhet,7,8,33.62,29.12,15.5
+Potato,Karwan Bazar (Dhaka),19,25,34.41,30.05,14.5
+Potato,Chattogram,11,18,34.56,31.04,11.3
+Potato,Barishal,6,6,32.07,31.87,0.6
+Rice,Barishal,8,8,77.02,61.48,25.3
+Rice,Chattogram,19,25,73.69,63.03,16.9
+Rice,Rajshahi,13,13,72.92,62.44,16.8
+Rice,Khulna,12,13,74.27,63.79,16.4
+Rice,Karwan Bazar (Dhaka),34,16,73.61,63.38,16.1
+Rice,Sylhet,6,9,74.26,64.1,15.8

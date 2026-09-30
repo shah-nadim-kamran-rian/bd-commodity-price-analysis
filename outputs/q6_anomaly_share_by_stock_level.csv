@@ -1,0 +1,4 @@
+stock_level,observations,anomaly_rows,anomaly_share_pct,avg_pct_vs_peer
+Low,408,118,28.9,8.5
+Medium,1050,86,8.2,-0.7
+High,442,28,6.3,-5.3

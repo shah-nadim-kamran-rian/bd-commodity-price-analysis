@@ -1,0 +1,7 @@
+commodity,unit,observations,avg_price,min_price,max_price,std_dev,cv_pct
+Onion,Kg,311,85.88,45.09,120.0,15.49,18.0
+Garlic,Kg,264,157.53,100.0,200.0,21.11,13.4
+Potato,Kg,322,31.35,20.0,40.0,4.21,13.4
+Edible Oil,L,279,170.63,123.95,200.0,18.71,11.0
+Rice,Kg,412,67.97,50.0,80.0,7.32,10.8
+Lentil,Kg,312,121.93,91.21,140.0,12.3,10.1

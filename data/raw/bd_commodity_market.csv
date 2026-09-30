@@ -1,0 +1,1901 @@
+Session,Market,Commodity,Variety,Unit,Purchase_Price,Stock_Level,Weather,Seasonal_Harvest,Festival_or_Event,Day_of_Week,Syndicate
+Summer,Khulna,Garlic,Chinese Garlic,Kg,163.12,Medium,Rainy,No,No,Monday,0
+Winter,Chattogram,Garlic,Chinese Garlic,Kg,151.94,Medium,Sunny,No,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,61.7,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,183.4,High,Rainy,No,Yes,Wednesday,1
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,200.0,Medium,Sunny,No,Yes,Friday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,146.78,High,Sunny,Yes,No,Friday,0
+Monsoon,Barishal,Potato,Cold Storage Potato,Kg,33.35,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,67.82,Medium,Rainy,No,No,Monday,1
+Winter,Khulna,Rice,Najirshail Rice,Kg,63.83,High,Sunny,No,Yes,Thursday,1
+Winter,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,183.55,Low,Sunny,No,No,Saturday,1
+Monsoon,Sylhet,Onion,Local Onion,Kg,79.05,Medium,Sunny,No,No,Wednesday,0
+Winter,Sylhet,Onion,Indian Onion,Kg,79.36,Medium,Rainy,No,No,Saturday,1
+Summer,Barishal,Onion,Indian Onion,Kg,51.76,Medium,Rainy,Yes,No,Friday,0
+Winter,Khulna,Lentil,Imported Lentil,Kg,103.12,Medium,Sunny,Yes,No,Saturday,0
+Summer,Rajshahi,Onion,Local Onion,Kg,99.88,Low,Sunny,No,Yes,Monday,1
+Summer,Khulna,Lentil,Local Lentil,Kg,123.89,Medium,Rainy,Yes,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,71.51,Low,Rainy,No,Yes,Monday,1
+Winter,Khulna,Lentil,Local Lentil,Kg,130.89,Medium,Rainy,No,No,Saturday,1
+Summer,Chattogram,Onion,Local Onion,Kg,97.24,Medium,Sunny,No,No,Wednesday,0
+Summer,Barishal,Lentil,Imported Lentil,Kg,103.36,High,Rainy,No,No,Monday,1
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,107.4,High,Rainy,Yes,No,Thursday,0
+Winter,Barishal,Onion,Local Onion,Kg,86.57,Medium,Rainy,Yes,No,Thursday,0
+Monsoon,Barishal,Lentil,Local Lentil,Kg,140.0,Medium,Rainy,No,Yes,Wednesday,1
+Summer,Khulna,Potato,Cold Storage Potato,Kg,35.66,Medium,Rainy,No,Yes,Saturday,1
+Winter,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,66.81,Medium,Sunny,Yes,Yes,Tuesday,0
+Winter,Chattogram,Rice,Najirshail Rice,Kg,70.65,Medium,Sunny,No,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,34.36,Medium,Sunny,No,Yes,Monday,1
+Monsoon,Sylhet,Garlic,Chinese Garlic,Kg,165.4,Medium,Flood,No,No,Sunday,1
+Summer,Chattogram,Garlic,Local Garlic,Kg,168.14,Medium,Sunny,Yes,Yes,Friday,0
+Summer,Sylhet,Edible Oil,Palm Oil,L,155.56,Medium,Rainy,Yes,No,Sunday,0
+Summer,Sylhet,Lentil,Local Lentil,Kg,140.0,Low,Sunny,No,No,Friday,1
+Winter,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,61.02,Medium,Sunny,Yes,Yes,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,38.36,Low,Rainy,No,No,Tuesday,1
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,28.26,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,25.26,High,Sunny,Yes,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,26.65,High,Sunny,Yes,Yes,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,166.75,Medium,Rainy,Yes,No,Sunday,0
+Winter,Rajshahi,Onion,Indian Onion,Kg,106.92,High,Rainy,No,No,Tuesday,1
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,156.65,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,126.27,Low,Rainy,No,No,Wednesday,1
+Winter,Rajshahi,Rice,Miniket Rice,Kg,50.0,High,Sunny,Yes,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,192.15,Medium,Rainy,Yes,Yes,Thursday,1
+Winter,Sylhet,Rice,Najirshail Rice,Kg,68.75,Medium,Sunny,No,No,Saturday,0
+Winter,Sylhet,Rice,Najirshail Rice,Kg,60.42,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,30.43,High,Rainy,No,No,Thursday,1
+Winter,Sylhet,Lentil,Imported Lentil,Kg,132.9,Medium,Sunny,No,Yes,Wednesday,1
+Summer,Rajshahi,Onion,Indian Onion,Kg,62.9,High,Rainy,No,No,Sunday,1
+Summer,Barishal,Edible Oil,Palm Oil,L,183.98,Medium,Sunny,No,No,Friday,0
+Summer,Barishal,Lentil,Local Lentil,Kg,112.23,Medium,Sunny,No,No,Saturday,0
+Monsoon,Rajshahi,Potato,Cold Storage Potato,Kg,37.23,Low,Rainy,No,No,Friday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,69.71,High,Sunny,No,No,Saturday,0
+Winter,Khulna,Edible Oil,Soybean Oil,L,169.51,High,Rainy,No,No,Sunday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,166.33,Low,Rainy,No,Yes,Friday,1
+Summer,Sylhet,Potato,Local Potato,Kg,31.24,Medium,Flood,Yes,No,Wednesday,0
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,25.38,High,Sunny,Yes,No,Friday,0
+Winter,Sylhet,Garlic,Chinese Garlic,Kg,195.27,Low,Rainy,No,No,Friday,1
+Winter,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,105.79,High,Sunny,Yes,Yes,Wednesday,0
+Summer,Chattogram,Lentil,Local Lentil,Kg,115.58,Medium,Sunny,No,No,Monday,0
+Winter,Chattogram,Rice,BR-28 Rice,Kg,58.84,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Rajshahi,Garlic,Chinese Garlic,Kg,186.86,High,Rainy,No,No,Monday,1
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,147.15,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,138.93,Medium,Rainy,No,Yes,Friday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,70.37,Medium,Sunny,No,No,Monday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,28.24,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Rajshahi,Onion,Local Onion,Kg,81.3,High,Rainy,Yes,No,Saturday,0
+Winter,Rajshahi,Lentil,Imported Lentil,Kg,126.99,Low,Rainy,No,No,Thursday,1
+Winter,Sylhet,Edible Oil,Soybean Oil,L,191.54,Medium,Sunny,No,Yes,Sunday,1
+Summer,Chattogram,Rice,BR-28 Rice,Kg,80.0,Low,Sunny,Yes,Yes,Thursday,1
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,36.96,High,Rainy,No,No,Monday,1
+Monsoon,Chattogram,Garlic,Local Garlic,Kg,158.92,Low,Rainy,Yes,No,Monday,1
+Monsoon,Sylhet,Edible Oil,Palm Oil,L,193.53,Medium,Flood,No,No,Thursday,1
+Monsoon,Chattogram,Potato,Local Potato,Kg,27.25,Medium,Rainy,No,No,Tuesday,1
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,178.04,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,61.83,Medium,Rainy,Yes,No,Tuesday,0
+Winter,Khulna,Potato,Local Potato,Kg,34.97,Medium,Sunny,No,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,109.58,Medium,Rainy,Yes,No,Wednesday,0
+Summer,Khulna,Potato,Local Potato,Kg,32.01,Medium,Sunny,Yes,No,Thursday,0
+Winter,Sylhet,Potato,Local Potato,Kg,27.23,Medium,Sunny,No,No,Friday,0
+Summer,Rajshahi,Lentil,Local Lentil,Kg,137.24,Medium,Sunny,No,No,Wednesday,1
+Summer,Sylhet,Edible Oil,Palm Oil,L,157.65,Medium,Sunny,No,No,Monday,0
+Winter,Khulna,Lentil,Imported Lentil,Kg,121.77,Medium,Rainy,Yes,No,Thursday,0
+Summer,Khulna,Lentil,Local Lentil,Kg,121.03,High,Sunny,No,Yes,Sunday,1
+Summer,Chattogram,Onion,Indian Onion,Kg,93.12,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,180.74,Medium,Sunny,No,Yes,Wednesday,1
+Summer,Barishal,Potato,Local Potato,Kg,35.74,Low,Rainy,No,Yes,Sunday,1
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,197.63,High,Flood,Yes,Yes,Wednesday,1
+Summer,Rajshahi,Edible Oil,Soybean Oil,L,169.55,Low,Sunny,No,No,Saturday,1
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,116.86,Medium,Rainy,Yes,No,Saturday,1
+Summer,Rajshahi,Rice,BR-28 Rice,Kg,51.55,High,Sunny,Yes,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,195.18,Medium,Sunny,No,No,Wednesday,1
+Summer,Rajshahi,Potato,Local Potato,Kg,32.83,Medium,Sunny,Yes,Yes,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,145.71,High,Sunny,No,No,Wednesday,0
+Monsoon,Barishal,Garlic,Chinese Garlic,Kg,146.0,Medium,Rainy,Yes,No,Friday,0
+Monsoon,Khulna,Edible Oil,Palm Oil,L,183.99,Low,Rainy,No,No,Monday,1
+Monsoon,Rajshahi,Garlic,Chinese Garlic,Kg,199.46,Medium,Flood,No,No,Wednesday,1
+Summer,Chattogram,Onion,Local Onion,Kg,115.32,Low,Sunny,No,No,Sunday,1
+Summer,Khulna,Rice,Najirshail Rice,Kg,71.28,Low,Sunny,No,No,Thursday,1
+Monsoon,Barishal,Potato,Local Potato,Kg,39.41,Medium,Sunny,No,Yes,Saturday,1
+Summer,Rajshahi,Garlic,Local Garlic,Kg,159.69,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,147.38,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,187.51,Medium,Sunny,No,Yes,Wednesday,0
+Summer,Chattogram,Edible Oil,Soybean Oil,L,200.0,Low,Rainy,No,Yes,Saturday,1
+Winter,Rajshahi,Onion,Indian Onion,Kg,91.07,Low,Sunny,Yes,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,88.95,Medium,Flood,No,No,Monday,1
+Summer,Chattogram,Onion,Local Onion,Kg,71.89,Low,Sunny,Yes,Yes,Friday,1
+Winter,Chattogram,Rice,Miniket Rice,Kg,75.85,Low,Rainy,No,No,Thursday,1
+Winter,Rajshahi,Garlic,Local Garlic,Kg,195.46,Low,Sunny,No,No,Thursday,1
+Summer,Sylhet,Potato,Local Potato,Kg,26.72,High,Sunny,Yes,No,Sunday,0
+Summer,Sylhet,Rice,Najirshail Rice,Kg,69.11,Medium,Sunny,Yes,No,Monday,0
+Summer,Barishal,Potato,Cold Storage Potato,Kg,27.79,High,Rainy,Yes,No,Saturday,0
+Monsoon,Khulna,Potato,Cold Storage Potato,Kg,29.32,High,Sunny,No,No,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,70.69,High,Sunny,Yes,No,Thursday,0
+Monsoon,Sylhet,Onion,Indian Onion,Kg,63.65,Medium,Rainy,No,No,Monday,0
+Summer,Chattogram,Edible Oil,Palm Oil,L,144.31,Medium,Rainy,No,No,Thursday,0
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,158.53,Medium,Rainy,No,No,Friday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,124.31,Low,Sunny,No,No,Friday,1
+Monsoon,Rajshahi,Potato,Local Potato,Kg,24.92,High,Sunny,No,No,Wednesday,0
+Summer,Rajshahi,Rice,BR-28 Rice,Kg,66.13,Medium,Sunny,Yes,Yes,Friday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,25.6,High,Sunny,Yes,No,Tuesday,0
+Summer,Chattogram,Edible Oil,Soybean Oil,L,131.12,Medium,Sunny,Yes,Yes,Monday,0
+Summer,Rajshahi,Rice,BR-28 Rice,Kg,61.78,Medium,Rainy,Yes,No,Thursday,0
+Monsoon,Khulna,Onion,Local Onion,Kg,91.41,Medium,Flood,No,No,Thursday,1
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,70.86,Medium,Rainy,No,No,Tuesday,0
+Summer,Chattogram,Edible Oil,Palm Oil,L,178.8,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,166.39,Medium,Rainy,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,180.27,Medium,Sunny,No,Yes,Thursday,0
+Summer,Rajshahi,Rice,Najirshail Rice,Kg,62.97,Medium,Rainy,Yes,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,98.47,Medium,Sunny,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,77.23,Medium,Sunny,Yes,No,Friday,0
+Winter,Khulna,Rice,BR-28 Rice,Kg,55.78,High,Rainy,Yes,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,137.59,Low,Rainy,No,No,Saturday,1
+Monsoon,Khulna,Onion,Indian Onion,Kg,107.98,High,Rainy,No,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,102.84,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Khulna,Onion,Indian Onion,Kg,87.56,Low,Rainy,Yes,Yes,Wednesday,1
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,96.95,Medium,Sunny,No,No,Thursday,0
+Winter,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,62.42,Medium,Sunny,No,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,200.0,Low,Sunny,No,Yes,Sunday,1
+Monsoon,Sylhet,Edible Oil,Palm Oil,L,185.2,Medium,Rainy,No,No,Saturday,0
+Monsoon,Khulna,Lentil,Local Lentil,Kg,119.13,Medium,Sunny,No,No,Thursday,0
+Winter,Chattogram,Garlic,Local Garlic,Kg,171.37,Low,Sunny,No,No,Wednesday,1
+Monsoon,Sylhet,Onion,Local Onion,Kg,75.14,Low,Rainy,No,No,Monday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,153.08,High,Sunny,No,No,Monday,0
+Summer,Rajshahi,Onion,Local Onion,Kg,88.57,Medium,Rainy,Yes,No,Saturday,0
+Summer,Sylhet,Rice,Najirshail Rice,Kg,75.95,Low,Sunny,No,No,Thursday,1
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,200.0,Low,Flood,No,Yes,Tuesday,1
+Summer,Chattogram,Potato,Local Potato,Kg,37.25,High,Sunny,No,No,Wednesday,0
+Summer,Sylhet,Onion,Local Onion,Kg,55.26,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,92.52,High,Sunny,No,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,27.7,Medium,Rainy,No,No,Monday,0
+Summer,Rajshahi,Lentil,Local Lentil,Kg,125.45,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,117.94,High,Rainy,No,No,Monday,0
+Monsoon,Khulna,Potato,Local Potato,Kg,34.54,Low,Sunny,Yes,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,138.37,Medium,Sunny,Yes,No,Thursday,0
+Summer,Sylhet,Rice,Najirshail Rice,Kg,56.37,Medium,Sunny,Yes,No,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,119.12,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Rajshahi,Rice,BR-28 Rice,Kg,61.97,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Sylhet,Rice,BR-28 Rice,Kg,62.44,High,Sunny,Yes,Yes,Monday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,91.21,High,Sunny,Yes,No,Tuesday,0
+Winter,Chattogram,Garlic,Local Garlic,Kg,191.79,Low,Sunny,No,No,Tuesday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,67.15,Medium,Rainy,Yes,No,Wednesday,0
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,132.2,Medium,Sunny,No,No,Thursday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,105.42,High,Rainy,Yes,No,Thursday,0
+Monsoon,Rajshahi,Potato,Local Potato,Kg,31.9,High,Sunny,Yes,No,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,34.21,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,146.4,Medium,Sunny,Yes,No,Monday,0
+Monsoon,Chattogram,Potato,Local Potato,Kg,29.64,Medium,Rainy,No,No,Thursday,1
+Monsoon,Khulna,Edible Oil,Palm Oil,L,186.96,Medium,Rainy,No,No,Friday,0
+Winter,Rajshahi,Onion,Local Onion,Kg,61.87,Medium,Sunny,Yes,No,Friday,0
+Summer,Rajshahi,Edible Oil,Palm Oil,L,146.37,High,Sunny,Yes,Yes,Tuesday,0
+Monsoon,Sylhet,Lentil,Local Lentil,Kg,121.08,Medium,Rainy,Yes,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,156.3,Medium,Sunny,No,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,27.75,High,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,79.24,Medium,Rainy,No,Yes,Tuesday,1
+Monsoon,Barishal,Potato,Cold Storage Potato,Kg,27.42,Medium,Rainy,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,22.9,High,Sunny,No,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,27.72,Low,Rainy,Yes,No,Wednesday,1
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,74.97,Low,Sunny,No,No,Friday,1
+Monsoon,Khulna,Onion,Local Onion,Kg,60.59,Medium,Rainy,No,No,Sunday,0
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,100.55,High,Rainy,No,Yes,Thursday,1
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,32.58,Medium,Sunny,No,Yes,Wednesday,0
+Monsoon,Sylhet,Rice,BR-28 Rice,Kg,61.59,High,Rainy,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,200.0,Low,Rainy,No,No,Saturday,1
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,135.04,High,Rainy,No,Yes,Sunday,1
+Summer,Chattogram,Lentil,Imported Lentil,Kg,124.15,Medium,Rainy,Yes,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,67.3,Medium,Sunny,Yes,No,Sunday,0
+Summer,Rajshahi,Lentil,Local Lentil,Kg,111.44,Medium,Rainy,No,No,Saturday,1
+Winter,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,115.8,Medium,Sunny,Yes,No,Friday,0
+Winter,Chattogram,Garlic,Chinese Garlic,Kg,152.03,Medium,Rainy,No,No,Thursday,1
+Winter,Khulna,Onion,Indian Onion,Kg,72.7,Low,Sunny,No,No,Saturday,1
+Summer,Chattogram,Lentil,Local Lentil,Kg,110.81,Medium,Sunny,No,No,Friday,0
+Summer,Chattogram,Edible Oil,Soybean Oil,L,143.98,Medium,Sunny,Yes,No,Monday,0
+Winter,Sylhet,Garlic,Chinese Garlic,Kg,157.54,Medium,Sunny,No,No,Monday,0
+Summer,Chattogram,Lentil,Local Lentil,Kg,136.71,Low,Sunny,No,Yes,Saturday,1
+Summer,Sylhet,Garlic,Chinese Garlic,Kg,136.74,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Khulna,Edible Oil,Palm Oil,L,171.76,Medium,Rainy,No,No,Monday,1
+Summer,Chattogram,Onion,Local Onion,Kg,72.88,Medium,Sunny,Yes,Yes,Thursday,0
+Monsoon,Sylhet,Rice,Miniket Rice,Kg,75.39,Medium,Rainy,No,No,Tuesday,1
+Winter,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,67.38,High,Sunny,Yes,No,Tuesday,0
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,78.52,Medium,Rainy,No,No,Tuesday,1
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,73.36,High,Rainy,No,No,Friday,1
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,61.92,Medium,Sunny,No,No,Friday,0
+Winter,Rajshahi,Potato,Local Potato,Kg,24.29,High,Sunny,Yes,No,Thursday,0
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,127.65,High,Sunny,Yes,No,Wednesday,0
+Summer,Khulna,Edible Oil,Palm Oil,L,145.29,High,Sunny,Yes,No,Saturday,0
+Winter,Khulna,Lentil,Local Lentil,Kg,97.63,High,Sunny,Yes,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,120.0,Low,Rainy,No,No,Thursday,1
+Winter,Chattogram,Rice,Miniket Rice,Kg,69.24,Medium,Sunny,No,No,Sunday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,139.0,Low,Sunny,No,Yes,Saturday,1
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,24.87,Medium,Sunny,No,No,Friday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,100.88,Low,Sunny,No,No,Saturday,1
+Summer,Rajshahi,Lentil,Local Lentil,Kg,107.38,Medium,Sunny,No,No,Wednesday,0
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,135.23,Low,Flood,Yes,No,Thursday,1
+Summer,Barishal,Rice,Najirshail Rice,Kg,70.97,Medium,Sunny,Yes,Yes,Tuesday,0
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,80.0,Medium,Flood,Yes,No,Thursday,1
+Monsoon,Barishal,Lentil,Local Lentil,Kg,126.51,Medium,Rainy,No,No,Saturday,1
+Winter,Khulna,Garlic,Chinese Garlic,Kg,150.57,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Barishal,Onion,Local Onion,Kg,80.21,Medium,Rainy,No,No,Wednesday,1
+Winter,Chattogram,Edible Oil,Soybean Oil,L,149.52,Medium,Sunny,No,No,Sunday,0
+Summer,Rajshahi,Edible Oil,Palm Oil,L,163.67,Medium,Rainy,Yes,No,Sunday,0
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,80.0,Low,Sunny,No,No,Thursday,1
+Monsoon,Barishal,Onion,Local Onion,Kg,93.11,High,Flood,No,No,Sunday,1
+Monsoon,Khulna,Rice,Miniket Rice,Kg,78.82,Medium,Rainy,No,No,Saturday,1
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,156.64,Medium,Rainy,Yes,No,Friday,0
+Summer,Rajshahi,Onion,Indian Onion,Kg,98.93,Low,Sunny,Yes,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,188.49,Medium,Sunny,No,No,Thursday,1
+Winter,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,59.42,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,72.16,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,128.87,High,Rainy,No,Yes,Sunday,1
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,35.29,Medium,Sunny,No,No,Monday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,31.31,Medium,Sunny,No,No,Sunday,0
+Summer,Chattogram,Edible Oil,Soybean Oil,L,139.22,Medium,Sunny,Yes,No,Friday,0
+Summer,Chattogram,Onion,Indian Onion,Kg,79.61,High,Sunny,No,Yes,Tuesday,1
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,62.84,High,Sunny,No,No,Sunday,0
+Summer,Chattogram,Garlic,Local Garlic,Kg,128.35,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Rajshahi,Potato,Local Potato,Kg,33.57,Low,Rainy,No,No,Friday,1
+Monsoon,Rajshahi,Potato,Local Potato,Kg,37.28,Medium,Rainy,No,No,Thursday,1
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,115.71,High,Rainy,No,No,Saturday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,64.27,Low,Sunny,Yes,No,Sunday,0
+Winter,Chattogram,Garlic,Chinese Garlic,Kg,133.36,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Sylhet,Lentil,Local Lentil,Kg,127.57,High,Rainy,Yes,No,Sunday,0
+Winter,Rajshahi,Onion,Local Onion,Kg,108.98,Medium,Flood,Yes,No,Wednesday,1
+Monsoon,Barishal,Onion,Indian Onion,Kg,80.24,High,Sunny,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,68.77,Low,Flood,Yes,No,Wednesday,1
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,69.83,Medium,Rainy,No,No,Wednesday,1
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,65.16,Medium,Sunny,Yes,Yes,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,146.53,Low,Rainy,Yes,No,Wednesday,1
+Monsoon,Sylhet,Edible Oil,Soybean Oil,L,142.08,Medium,Sunny,No,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,85.34,High,Sunny,No,No,Saturday,0
+Monsoon,Khulna,Rice,BR-28 Rice,Kg,69.03,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,31.62,Medium,Rainy,Yes,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,164.62,Medium,Sunny,No,No,Friday,0
+Summer,Sylhet,Onion,Local Onion,Kg,70.82,Medium,Sunny,Yes,No,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,32.13,Medium,Rainy,No,No,Wednesday,1
+Winter,Chattogram,Garlic,Local Garlic,Kg,171.84,Medium,Sunny,No,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,97.43,Medium,Sunny,No,No,Monday,0
+Winter,Khulna,Garlic,Chinese Garlic,Kg,125.68,Medium,Sunny,Yes,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,154.99,Medium,Sunny,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,80.0,Medium,Flood,Yes,Yes,Thursday,1
+Winter,Khulna,Potato,Cold Storage Potato,Kg,30.96,High,Rainy,No,No,Thursday,1
+Monsoon,Chattogram,Lentil,Imported Lentil,Kg,125.17,Medium,Rainy,No,No,Monday,1
+Summer,Khulna,Edible Oil,Soybean Oil,L,174.13,High,Sunny,No,Yes,Wednesday,0
+Winter,Chattogram,Rice,Miniket Rice,Kg,64.69,High,Sunny,No,No,Monday,0
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,61.0,High,Sunny,Yes,No,Friday,0
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,140.0,Medium,Flood,No,Yes,Wednesday,1
+Winter,Rajshahi,Rice,Najirshail Rice,Kg,66.46,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Barishal,Garlic,Local Garlic,Kg,144.98,High,Rainy,No,No,Wednesday,0
+Summer,Khulna,Garlic,Chinese Garlic,Kg,189.43,Medium,Rainy,No,No,Saturday,1
+Winter,Rajshahi,Edible Oil,Palm Oil,L,154.49,Medium,Rainy,No,No,Monday,0
+Winter,Sylhet,Onion,Indian Onion,Kg,99.6,Low,Sunny,No,No,Tuesday,1
+Summer,Sylhet,Edible Oil,Soybean Oil,L,187.5,Low,Sunny,No,Yes,Friday,1
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,75.92,Medium,Sunny,No,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,32.27,Low,Sunny,No,No,Monday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,61.34,Low,Rainy,Yes,No,Wednesday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,183.63,Low,Rainy,Yes,No,Tuesday,1
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,55.38,Medium,Sunny,No,No,Sunday,0
+Summer,Sylhet,Potato,Cold Storage Potato,Kg,27.5,Medium,Sunny,No,No,Tuesday,0
+Winter,Chattogram,Lentil,Local Lentil,Kg,109.68,High,Sunny,Yes,Yes,Monday,0
+Summer,Barishal,Potato,Cold Storage Potato,Kg,22.47,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,50.95,High,Sunny,Yes,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,28.82,Medium,Rainy,No,No,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,157.63,Medium,Rainy,No,No,Friday,0
+Winter,Barishal,Potato,Cold Storage Potato,Kg,32.15,High,Sunny,No,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,153.96,Medium,Sunny,Yes,No,Monday,0
+Monsoon,Chattogram,Onion,Local Onion,Kg,75.26,High,Rainy,Yes,No,Monday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,40.0,Medium,Rainy,No,No,Saturday,1
+Monsoon,Barishal,Lentil,Imported Lentil,Kg,119.24,High,Sunny,No,No,Friday,0
+Summer,Sylhet,Potato,Cold Storage Potato,Kg,33.76,High,Flood,Yes,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,29.68,Medium,Sunny,Yes,No,Wednesday,0
+Winter,Chattogram,Lentil,Imported Lentil,Kg,114.22,High,Rainy,Yes,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,114.12,Medium,Sunny,Yes,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,29.77,High,Rainy,Yes,No,Thursday,0
+Summer,Khulna,Onion,Local Onion,Kg,72.31,High,Sunny,Yes,Yes,Friday,0
+Summer,Khulna,Potato,Local Potato,Kg,31.29,High,Rainy,Yes,Yes,Monday,0
+Monsoon,Khulna,Lentil,Local Lentil,Kg,102.52,Medium,Rainy,Yes,No,Wednesday,0
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,136.09,Medium,Sunny,Yes,No,Tuesday,0
+Summer,Barishal,Onion,Local Onion,Kg,91.93,Medium,Sunny,Yes,Yes,Saturday,0
+Monsoon,Khulna,Rice,Miniket Rice,Kg,67.9,Medium,Rainy,Yes,No,Saturday,0
+Summer,Chattogram,Onion,Local Onion,Kg,105.33,Medium,Sunny,No,Yes,Monday,0
+Monsoon,Sylhet,Potato,Local Potato,Kg,34.02,Low,Rainy,No,Yes,Thursday,1
+Summer,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,200.0,Low,Rainy,Yes,No,Thursday,1
+Summer,Sylhet,Potato,Local Potato,Kg,40.0,Medium,Rainy,No,No,Friday,1
+Winter,Barishal,Rice,Miniket Rice,Kg,68.41,Low,Sunny,Yes,No,Monday,0
+Monsoon,Rajshahi,Edible Oil,Palm Oil,L,174.4,Medium,Sunny,No,No,Saturday,0
+Winter,Rajshahi,Rice,BR-28 Rice,Kg,72.05,Medium,Sunny,Yes,Yes,Friday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,140.0,Medium,Rainy,No,Yes,Saturday,1
+Monsoon,Chattogram,Onion,Local Onion,Kg,86.02,Medium,Sunny,No,No,Tuesday,0
+Summer,Khulna,Rice,Miniket Rice,Kg,77.33,Medium,Rainy,No,No,Friday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,72.73,Medium,Sunny,No,No,Friday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,38.67,High,Rainy,No,No,Tuesday,1
+Monsoon,Khulna,Potato,Local Potato,Kg,35.32,High,Flood,No,No,Tuesday,1
+Winter,Rajshahi,Potato,Local Potato,Kg,27.34,High,Rainy,Yes,No,Thursday,0
+Monsoon,Barishal,Potato,Local Potato,Kg,34.54,Medium,Rainy,No,Yes,Wednesday,1
+Monsoon,Sylhet,Rice,Miniket Rice,Kg,72.31,Medium,Sunny,No,No,Wednesday,0
+Winter,Barishal,Edible Oil,Soybean Oil,L,180.92,Medium,Sunny,No,No,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,68.64,Medium,Rainy,No,No,Thursday,0
+Summer,Rajshahi,Onion,Indian Onion,Kg,79.82,Medium,Rainy,Yes,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,98.7,Medium,Rainy,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,128.68,Medium,Rainy,No,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,84.29,Medium,Sunny,No,No,Friday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,63.36,Medium,Sunny,No,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,84.81,High,Rainy,Yes,Yes,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,151.34,Medium,Rainy,No,No,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,61.37,Low,Sunny,Yes,No,Friday,0
+Summer,Chattogram,Potato,Local Potato,Kg,31.07,Medium,Rainy,No,Yes,Tuesday,1
+Summer,Khulna,Potato,Local Potato,Kg,31.51,High,Rainy,No,Yes,Thursday,1
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,74.81,Medium,Sunny,No,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,71.59,Medium,Rainy,No,No,Tuesday,0
+Winter,Chattogram,Onion,Indian Onion,Kg,96.91,Medium,Sunny,No,No,Wednesday,0
+Summer,Khulna,Rice,Najirshail Rice,Kg,50.0,High,Sunny,Yes,No,Saturday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,140.0,Low,Flood,Yes,No,Sunday,1
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,125.45,Medium,Sunny,No,Yes,Sunday,0
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,112.67,High,Rainy,Yes,No,Friday,0
+Monsoon,Sylhet,Onion,Local Onion,Kg,88.57,Medium,Rainy,No,No,Friday,0
+Summer,Khulna,Onion,Indian Onion,Kg,78.9,Medium,Sunny,No,No,Monday,0
+Winter,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,80.0,Low,Rainy,No,No,Sunday,1
+Summer,Khulna,Edible Oil,Soybean Oil,L,171.66,High,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,170.63,Low,Flood,No,Yes,Thursday,1
+Winter,Rajshahi,Lentil,Local Lentil,Kg,118.21,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,52.33,High,Sunny,Yes,No,Sunday,0
+Summer,Barishal,Edible Oil,Soybean Oil,L,167.75,Low,Sunny,No,No,Monday,1
+Summer,Khulna,Garlic,Chinese Garlic,Kg,177.56,High,Rainy,No,Yes,Saturday,1
+Winter,Sylhet,Edible Oil,Soybean Oil,L,200.0,Low,Rainy,No,No,Monday,1
+Monsoon,Barishal,Potato,Local Potato,Kg,39.6,Medium,Rainy,Yes,No,Thursday,0
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,140.0,Medium,Rainy,No,No,Wednesday,1
+Monsoon,Barishal,Garlic,Chinese Garlic,Kg,166.71,Low,Rainy,No,No,Sunday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,80.0,Medium,Flood,No,No,Monday,1
+Monsoon,Khulna,Lentil,Local Lentil,Kg,129.94,Medium,Rainy,No,No,Tuesday,0
+Winter,Barishal,Onion,Indian Onion,Kg,84.43,High,Sunny,No,No,Wednesday,0
+Summer,Barishal,Rice,Miniket Rice,Kg,63.63,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,200.0,Low,Sunny,No,Yes,Friday,1
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,140.0,Low,Sunny,Yes,Yes,Saturday,1
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,117.37,High,Sunny,No,No,Monday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,125.45,Medium,Rainy,No,Yes,Wednesday,1
+Summer,Sylhet,Rice,Miniket Rice,Kg,65.97,Medium,Sunny,No,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,104.9,High,Sunny,Yes,No,Sunday,0
+Winter,Sylhet,Lentil,Local Lentil,Kg,113.15,High,Sunny,No,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,35.29,Medium,Rainy,No,No,Sunday,0
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,123.64,Low,Rainy,No,No,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,129.86,Medium,Rainy,No,No,Friday,0
+Summer,Khulna,Onion,Local Onion,Kg,62.24,High,Sunny,No,No,Wednesday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,25.7,Medium,Sunny,Yes,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,142.67,Low,Sunny,No,No,Tuesday,1
+Winter,Chattogram,Edible Oil,Palm Oil,L,152.5,High,Rainy,No,Yes,Thursday,1
+Summer,Rajshahi,Edible Oil,Palm Oil,L,162.73,Low,Sunny,Yes,No,Tuesday,0
+Winter,Barishal,Garlic,Chinese Garlic,Kg,186.77,High,Rainy,No,No,Monday,1
+Summer,Barishal,Lentil,Local Lentil,Kg,98.51,Medium,Rainy,Yes,No,Tuesday,0
+Winter,Rajshahi,Rice,BR-28 Rice,Kg,64.7,Medium,Rainy,Yes,No,Saturday,0
+Monsoon,Khulna,Potato,Local Potato,Kg,34.57,Medium,Flood,No,Yes,Monday,1
+Winter,Chattogram,Edible Oil,Soybean Oil,L,170.13,High,Sunny,No,No,Sunday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,71.11,Medium,Sunny,No,No,Friday,0
+Winter,Sylhet,Onion,Indian Onion,Kg,91.35,Low,Rainy,Yes,No,Tuesday,1
+Winter,Khulna,Lentil,Imported Lentil,Kg,119.0,Medium,Sunny,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,99.76,Medium,Rainy,No,No,Friday,0
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,142.53,Medium,Sunny,Yes,Yes,Thursday,0
+Monsoon,Khulna,Rice,BR-28 Rice,Kg,69.36,Medium,Rainy,No,No,Saturday,0
+Summer,Khulna,Lentil,Local Lentil,Kg,118.17,High,Rainy,Yes,Yes,Saturday,0
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,31.86,Medium,Rainy,Yes,No,Thursday,0
+Winter,Sylhet,Garlic,Local Garlic,Kg,170.69,Low,Rainy,Yes,No,Saturday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,76.16,Low,Sunny,No,No,Monday,1
+Summer,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,63.66,Medium,Rainy,No,No,Sunday,0
+Summer,Sylhet,Potato,Local Potato,Kg,27.8,Medium,Rainy,Yes,No,Sunday,0
+Winter,Sylhet,Lentil,Local Lentil,Kg,130.29,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Khulna,Onion,Indian Onion,Kg,96.51,Medium,Sunny,No,Yes,Sunday,0
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,70.43,Medium,Flood,No,No,Sunday,1
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,90.87,Medium,Sunny,Yes,Yes,Thursday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,27.68,High,Sunny,Yes,No,Friday,0
+Monsoon,Barishal,Lentil,Local Lentil,Kg,140.0,Low,Flood,Yes,No,Saturday,1
+Summer,Barishal,Rice,Najirshail Rice,Kg,69.48,Medium,Sunny,No,No,Saturday,0
+Monsoon,Chattogram,Potato,Local Potato,Kg,30.86,Low,Rainy,No,No,Monday,1
+Winter,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,76.86,Low,Sunny,Yes,Yes,Saturday,1
+Summer,Khulna,Garlic,Chinese Garlic,Kg,138.92,High,Rainy,Yes,No,Sunday,0
+Monsoon,Khulna,Rice,Najirshail Rice,Kg,74.57,Low,Rainy,No,No,Monday,1
+Summer,Rajshahi,Onion,Indian Onion,Kg,78.3,Low,Sunny,No,No,Monday,1
+Monsoon,Chattogram,Onion,Indian Onion,Kg,100.71,Medium,Rainy,No,Yes,Thursday,1
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,127.23,Medium,Sunny,No,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,86.28,Low,Rainy,Yes,Yes,Friday,1
+Monsoon,Barishal,Garlic,Local Garlic,Kg,160.39,High,Rainy,No,No,Tuesday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,112.15,Medium,Sunny,No,No,Wednesday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,63.53,High,Sunny,Yes,No,Tuesday,0
+Monsoon,Sylhet,Garlic,Chinese Garlic,Kg,149.9,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Barishal,Garlic,Chinese Garlic,Kg,191.09,Medium,Rainy,No,No,Sunday,1
+Summer,Rajshahi,Onion,Local Onion,Kg,73.03,Low,Sunny,No,No,Sunday,1
+Winter,Chattogram,Garlic,Local Garlic,Kg,167.17,High,Sunny,No,No,Monday,0
+Winter,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,75.46,Medium,Rainy,No,No,Friday,0
+Monsoon,Barishal,Onion,Indian Onion,Kg,105.34,Low,Rainy,No,No,Tuesday,1
+Summer,Rajshahi,Onion,Indian Onion,Kg,93.28,Low,Sunny,Yes,Yes,Thursday,1
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,112.84,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Barishal,Rice,BR-28 Rice,Kg,61.65,Medium,Rainy,Yes,No,Tuesday,0
+Summer,Sylhet,Edible Oil,Palm Oil,L,171.7,Medium,Sunny,No,No,Tuesday,0
+Summer,Khulna,Lentil,Local Lentil,Kg,114.61,Medium,Rainy,Yes,Yes,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,130.4,Medium,Sunny,Yes,No,Tuesday,0
+Winter,Chattogram,Edible Oil,Soybean Oil,L,170.47,Low,Sunny,No,No,Saturday,1
+Summer,Chattogram,Potato,Local Potato,Kg,31.59,Medium,Sunny,Yes,No,Friday,0
+Winter,Chattogram,Edible Oil,Soybean Oil,L,190.04,Low,Sunny,No,No,Thursday,1
+Winter,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,156.2,Low,Sunny,Yes,No,Wednesday,0
+Summer,Rajshahi,Onion,Local Onion,Kg,76.73,Medium,Sunny,Yes,Yes,Sunday,0
+Summer,Khulna,Potato,Local Potato,Kg,40.0,Low,Rainy,No,No,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,115.58,Medium,Rainy,No,No,Tuesday,0
+Summer,Khulna,Garlic,Chinese Garlic,Kg,170.73,Medium,Rainy,Yes,Yes,Friday,0
+Summer,Khulna,Garlic,Local Garlic,Kg,159.61,Medium,Sunny,Yes,Yes,Tuesday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,117.31,Medium,Sunny,No,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,166.27,High,Sunny,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,198.21,Medium,Flood,No,No,Sunday,1
+Summer,Khulna,Edible Oil,Soybean Oil,L,198.99,Low,Sunny,No,No,Wednesday,1
+Winter,Chattogram,Potato,Local Potato,Kg,25.96,Medium,Sunny,No,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,60.86,Medium,Rainy,Yes,No,Friday,0
+Summer,Khulna,Rice,BR-28 Rice,Kg,69.41,Low,Sunny,Yes,Yes,Tuesday,1
+Winter,Chattogram,Garlic,Local Garlic,Kg,147.46,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,113.89,Low,Rainy,Yes,No,Friday,1
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,74.55,Low,Sunny,Yes,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,95.91,High,Sunny,No,Yes,Monday,0
+Monsoon,Barishal,Edible Oil,Soybean Oil,L,156.05,High,Sunny,No,No,Wednesday,0
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,198.85,Low,Rainy,No,Yes,Thursday,1
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,64.25,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,137.43,Medium,Sunny,No,No,Friday,0
+Winter,Khulna,Garlic,Chinese Garlic,Kg,153.51,Medium,Sunny,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,80.0,Low,Flood,No,No,Thursday,1
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,58.22,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,200.0,Low,Rainy,No,No,Monday,1
+Winter,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,129.13,Medium,Sunny,Yes,No,Saturday,0
+Summer,Barishal,Onion,Local Onion,Kg,73.43,High,Sunny,No,No,Tuesday,0
+Monsoon,Khulna,Rice,BR-28 Rice,Kg,75.89,Medium,Rainy,No,Yes,Friday,1
+Summer,Rajshahi,Edible Oil,Palm Oil,L,164.72,Low,Sunny,No,No,Wednesday,1
+Winter,Barishal,Onion,Indian Onion,Kg,76.29,Medium,Rainy,Yes,No,Friday,0
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,107.37,Medium,Rainy,Yes,No,Sunday,0
+Summer,Barishal,Rice,BR-28 Rice,Kg,62.72,Medium,Sunny,Yes,No,Monday,0
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,140.0,Low,Rainy,No,Yes,Sunday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,183.9,Low,Sunny,No,Yes,Monday,1
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,132.11,Medium,Sunny,Yes,Yes,Wednesday,0
+Winter,Sylhet,Edible Oil,Palm Oil,L,135.83,High,Rainy,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,88.78,High,Sunny,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,28.25,High,Rainy,No,No,Thursday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,192.86,High,Rainy,No,Yes,Thursday,1
+Winter,Rajshahi,Rice,BR-28 Rice,Kg,61.37,High,Sunny,Yes,Yes,Friday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,140.0,Low,Flood,Yes,No,Saturday,1
+Winter,Chattogram,Potato,Local Potato,Kg,29.07,Medium,Sunny,Yes,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,62.6,High,Sunny,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,192.31,Medium,Rainy,No,Yes,Sunday,1
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,24.25,Medium,Rainy,Yes,No,Saturday,0
+Summer,Rajshahi,Onion,Local Onion,Kg,87.42,Low,Sunny,No,No,Saturday,1
+Winter,Barishal,Garlic,Local Garlic,Kg,129.9,Medium,Sunny,Yes,No,Friday,0
+Summer,Chattogram,Lentil,Local Lentil,Kg,102.97,High,Sunny,No,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,66.57,Low,Sunny,No,Yes,Friday,1
+Summer,Khulna,Lentil,Imported Lentil,Kg,126.29,Low,Sunny,No,No,Friday,1
+Summer,Rajshahi,Potato,Local Potato,Kg,29.54,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Rajshahi,Edible Oil,Soybean Oil,L,165.34,Medium,Sunny,No,Yes,Saturday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,27.17,High,Sunny,Yes,No,Wednesday,0
+Summer,Khulna,Rice,Miniket Rice,Kg,68.43,Medium,Rainy,Yes,No,Thursday,0
+Summer,Sylhet,Lentil,Local Lentil,Kg,110.8,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Sylhet,Lentil,Local Lentil,Kg,124.79,Low,Rainy,Yes,No,Wednesday,1
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,200.0,Low,Rainy,No,No,Thursday,1
+Summer,Rajshahi,Rice,Miniket Rice,Kg,70.04,High,Rainy,Yes,Yes,Friday,0
+Winter,Khulna,Garlic,Local Garlic,Kg,142.55,Low,Sunny,No,No,Friday,1
+Monsoon,Khulna,Edible Oil,Palm Oil,L,174.4,High,Rainy,No,Yes,Saturday,1
+Monsoon,Barishal,Edible Oil,Palm Oil,L,158.4,High,Sunny,No,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,79.45,Low,Sunny,No,No,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,125.46,Low,Rainy,No,No,Friday,1
+Monsoon,Barishal,Lentil,Imported Lentil,Kg,135.54,Medium,Rainy,No,Yes,Wednesday,1
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,73.03,Low,Sunny,No,Yes,Thursday,1
+Monsoon,Khulna,Rice,Najirshail Rice,Kg,80.0,Low,Flood,No,Yes,Monday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,140.0,Low,Rainy,No,No,Saturday,1
+Winter,Khulna,Garlic,Chinese Garlic,Kg,139.48,Medium,Rainy,No,No,Wednesday,0
+Summer,Sylhet,Lentil,Imported Lentil,Kg,116.66,Medium,Sunny,Yes,No,Sunday,0
+Winter,Khulna,Onion,Indian Onion,Kg,68.92,High,Rainy,Yes,Yes,Wednesday,0
+Summer,Chattogram,Onion,Indian Onion,Kg,109.32,Medium,Sunny,No,Yes,Saturday,1
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,185.31,Low,Rainy,No,No,Thursday,1
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,33.15,High,Rainy,Yes,Yes,Saturday,0
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,200.0,Low,Flood,No,Yes,Friday,1
+Winter,Rajshahi,Potato,Cold Storage Potato,Kg,35.74,Medium,Rainy,No,No,Sunday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,35.4,Low,Rainy,No,No,Monday,1
+Summer,Sylhet,Garlic,Local Garlic,Kg,152.14,Medium,Sunny,Yes,Yes,Saturday,0
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,98.68,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Barishal,Potato,Cold Storage Potato,Kg,25.16,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,111.69,High,Rainy,No,No,Wednesday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,62.85,Medium,Rainy,Yes,No,Thursday,0
+Winter,Rajshahi,Edible Oil,Soybean Oil,L,168.53,Medium,Sunny,No,No,Sunday,0
+Summer,Rajshahi,Rice,Najirshail Rice,Kg,66.85,High,Sunny,No,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,162.5,Medium,Sunny,No,No,Saturday,0
+Summer,Khulna,Edible Oil,Palm Oil,L,171.93,Low,Sunny,No,No,Tuesday,1
+Monsoon,Khulna,Rice,Miniket Rice,Kg,80.0,Medium,Flood,No,No,Friday,1
+Winter,Rajshahi,Garlic,Chinese Garlic,Kg,156.5,Medium,Rainy,No,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,77.41,Low,Sunny,No,Yes,Tuesday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,79.06,Medium,Rainy,No,No,Thursday,1
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,136.86,High,Rainy,No,Yes,Monday,1
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,37.9,Medium,Rainy,No,No,Sunday,1
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,31.02,High,Sunny,Yes,No,Sunday,0
+Monsoon,Khulna,Edible Oil,Soybean Oil,L,197.67,Low,Sunny,No,Yes,Saturday,1
+Winter,Khulna,Rice,Miniket Rice,Kg,62.44,Medium,Sunny,Yes,No,Saturday,0
+Winter,Rajshahi,Onion,Local Onion,Kg,65.64,Medium,Rainy,Yes,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,138.11,Medium,Rainy,No,No,Wednesday,1
+Monsoon,Rajshahi,Garlic,Chinese Garlic,Kg,164.21,Medium,Sunny,Yes,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,69.74,Medium,Sunny,No,No,Monday,0
+Summer,Khulna,Lentil,Local Lentil,Kg,125.26,Low,Rainy,Yes,No,Tuesday,1
+Summer,Sylhet,Garlic,Local Garlic,Kg,154.83,High,Sunny,No,No,Monday,0
+Monsoon,Rajshahi,Potato,Cold Storage Potato,Kg,33.4,Low,Rainy,No,No,Tuesday,1
+Winter,Sylhet,Lentil,Imported Lentil,Kg,118.26,Medium,Sunny,Yes,No,Saturday,0
+Summer,Sylhet,Lentil,Imported Lentil,Kg,118.95,Medium,Sunny,No,No,Monday,0
+Winter,Rajshahi,Onion,Local Onion,Kg,67.46,High,Sunny,Yes,Yes,Saturday,0
+Winter,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,61.49,Medium,Sunny,No,No,Saturday,0
+Monsoon,Chattogram,Potato,Local Potato,Kg,30.35,Medium,Rainy,Yes,No,Monday,0
+Summer,Rajshahi,Lentil,Local Lentil,Kg,116.06,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,188.96,High,Rainy,No,No,Friday,1
+Monsoon,Rajshahi,Potato,Local Potato,Kg,32.5,Low,Rainy,No,No,Tuesday,1
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,154.69,Medium,Sunny,No,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,119.78,Low,Sunny,Yes,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,99.38,High,Sunny,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,25.27,Medium,Rainy,Yes,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,139.23,Medium,Sunny,No,No,Thursday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,163.36,Medium,Flood,Yes,No,Friday,0
+Monsoon,Rajshahi,Rice,Najirshail Rice,Kg,72.34,Medium,Rainy,Yes,No,Friday,0
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,71.22,High,Sunny,No,No,Tuesday,0
+Winter,Chattogram,Lentil,Imported Lentil,Kg,134.34,Medium,Flood,No,No,Saturday,1
+Monsoon,Chattogram,Garlic,Chinese Garlic,Kg,166.38,Medium,Sunny,No,Yes,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,65.17,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Chattogram,Garlic,Local Garlic,Kg,167.68,Low,Rainy,No,No,Sunday,1
+Winter,Rajshahi,Lentil,Imported Lentil,Kg,129.79,Medium,Sunny,No,No,Saturday,0
+Monsoon,Rajshahi,Onion,Local Onion,Kg,82.44,Low,Rainy,No,No,Friday,1
+Winter,Chattogram,Garlic,Local Garlic,Kg,171.33,Medium,Sunny,No,No,Wednesday,0
+Summer,Chattogram,Garlic,Local Garlic,Kg,158.36,Low,Sunny,Yes,No,Friday,0
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,138.13,Low,Sunny,No,Yes,Monday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,93.67,Medium,Flood,No,No,Sunday,1
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,111.25,High,Rainy,No,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,134.54,High,Rainy,Yes,No,Sunday,0
+Monsoon,Chattogram,Potato,Local Potato,Kg,25.07,Medium,Rainy,Yes,No,Tuesday,0
+Summer,Chattogram,Onion,Indian Onion,Kg,79.12,Low,Rainy,No,Yes,Tuesday,1
+Winter,Barishal,Garlic,Local Garlic,Kg,183.02,Medium,Sunny,No,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,149.78,High,Sunny,No,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,111.57,Medium,Sunny,Yes,No,Thursday,0
+Summer,Barishal,Lentil,Imported Lentil,Kg,120.83,Medium,Sunny,No,No,Monday,0
+Winter,Khulna,Lentil,Local Lentil,Kg,125.57,Low,Rainy,Yes,No,Thursday,1
+Summer,Chattogram,Potato,Local Potato,Kg,26.24,Medium,Rainy,Yes,No,Thursday,0
+Winter,Rajshahi,Potato,Cold Storage Potato,Kg,23.51,High,Sunny,No,No,Friday,0
+Winter,Chattogram,Onion,Indian Onion,Kg,68.55,High,Sunny,No,No,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,31.1,Low,Rainy,No,No,Saturday,1
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,30.8,High,Sunny,Yes,No,Monday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,112.2,Medium,Sunny,Yes,No,Friday,0
+Summer,Sylhet,Onion,Indian Onion,Kg,98.04,Medium,Sunny,No,Yes,Sunday,0
+Monsoon,Barishal,Rice,BR-28 Rice,Kg,80.0,Low,Rainy,No,No,Tuesday,1
+Summer,Rajshahi,Rice,BR-28 Rice,Kg,58.35,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,60.41,Medium,Rainy,No,No,Saturday,0
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,69.55,High,Rainy,Yes,Yes,Tuesday,0
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,103.96,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,112.12,Medium,Rainy,Yes,No,Sunday,0
+Summer,Rajshahi,Lentil,Local Lentil,Kg,113.61,Low,Rainy,Yes,No,Sunday,1
+Monsoon,Chattogram,Potato,Local Potato,Kg,38.41,Low,Rainy,No,No,Wednesday,1
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,80.0,Low,Flood,No,Yes,Wednesday,1
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,162.01,Medium,Sunny,No,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,125.71,High,Rainy,No,No,Wednesday,0
+Monsoon,Sylhet,Onion,Indian Onion,Kg,61.72,Medium,Rainy,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,77.48,Low,Rainy,Yes,Yes,Sunday,1
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,34.31,Low,Rainy,Yes,No,Monday,1
+Summer,Chattogram,Rice,Miniket Rice,Kg,69.44,High,Rainy,Yes,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,108.57,High,Sunny,Yes,No,Monday,0
+Winter,Rajshahi,Rice,BR-28 Rice,Kg,67.7,Medium,Sunny,No,No,Thursday,0
+Summer,Rajshahi,Lentil,Local Lentil,Kg,116.38,Medium,Sunny,Yes,No,Tuesday,0
+Winter,Khulna,Potato,Local Potato,Kg,28.21,Medium,Sunny,Yes,No,Monday,0
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,140.0,Low,Sunny,No,No,Thursday,1
+Monsoon,Chattogram,Onion,Indian Onion,Kg,67.64,Medium,Rainy,Yes,No,Sunday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,33.28,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,148.21,High,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,92.04,Low,Flood,Yes,No,Saturday,1
+Winter,Sylhet,Garlic,Local Garlic,Kg,156.5,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Chattogram,Potato,Local Potato,Kg,39.73,Low,Flood,No,No,Saturday,1
+Winter,Chattogram,Edible Oil,Soybean Oil,L,171.37,Medium,Rainy,No,No,Monday,0
+Monsoon,Rajshahi,Rice,Najirshail Rice,Kg,77.7,Low,Sunny,No,Yes,Tuesday,1
+Monsoon,Rajshahi,Rice,Najirshail Rice,Kg,70.93,Low,Sunny,No,No,Monday,1
+Summer,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,67.82,Low,Sunny,No,No,Saturday,1
+Summer,Sylhet,Garlic,Local Garlic,Kg,143.71,Medium,Rainy,No,No,Tuesday,0
+Monsoon,Chattogram,Potato,Local Potato,Kg,32.92,Medium,Rainy,No,Yes,Friday,1
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,122.35,High,Sunny,Yes,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,68.63,Medium,Sunny,Yes,No,Friday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,35.0,Low,Sunny,No,No,Tuesday,1
+Winter,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,73.39,Medium,Rainy,No,No,Tuesday,0
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,121.13,High,Rainy,Yes,No,Sunday,0
+Monsoon,Sylhet,Lentil,Local Lentil,Kg,125.46,Medium,Rainy,No,No,Thursday,0
+Summer,Khulna,Edible Oil,Soybean Oil,L,167.11,High,Rainy,No,No,Monday,0
+Monsoon,Barishal,Potato,Cold Storage Potato,Kg,34.82,High,Sunny,No,No,Saturday,0
+Monsoon,Khulna,Rice,Najirshail Rice,Kg,75.02,Low,Rainy,No,No,Monday,1
+Monsoon,Rajshahi,Edible Oil,Palm Oil,L,200.0,Low,Rainy,No,No,Thursday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,170.81,Low,Sunny,Yes,No,Sunday,0
+Summer,Barishal,Onion,Local Onion,Kg,57.35,High,Sunny,Yes,No,Saturday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,34.37,Low,Rainy,No,No,Monday,1
+Summer,Sylhet,Potato,Local Potato,Kg,27.52,Medium,Sunny,No,No,Monday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,132.64,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Khulna,Lentil,Local Lentil,Kg,115.11,Medium,Sunny,Yes,Yes,Wednesday,0
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,61.41,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,167.87,Medium,Sunny,No,No,Monday,0
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,140.0,Low,Sunny,No,Yes,Friday,1
+Monsoon,Sylhet,Garlic,Local Garlic,Kg,154.1,High,Sunny,No,Yes,Monday,0
+Monsoon,Khulna,Rice,BR-28 Rice,Kg,56.23,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,122.08,High,Sunny,No,No,Thursday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,188.67,Medium,Rainy,No,No,Tuesday,1
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,67.37,Medium,Sunny,No,No,Friday,0
+Winter,Sylhet,Onion,Local Onion,Kg,96.58,High,Sunny,No,No,Thursday,0
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,29.23,High,Sunny,No,No,Friday,0
+Summer,Rajshahi,Rice,BR-28 Rice,Kg,70.32,Medium,Rainy,No,No,Sunday,0
+Summer,Khulna,Garlic,Chinese Garlic,Kg,148.95,Medium,Rainy,No,No,Friday,0
+Monsoon,Sylhet,Rice,Miniket Rice,Kg,74.48,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,172.65,Medium,Rainy,Yes,Yes,Sunday,0
+Summer,Khulna,Garlic,Local Garlic,Kg,121.08,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,116.81,Medium,Rainy,No,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,145.58,Medium,Rainy,No,No,Monday,0
+Winter,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,74.51,Low,Rainy,Yes,No,Saturday,1
+Summer,Chattogram,Lentil,Local Lentil,Kg,130.57,Low,Sunny,No,No,Sunday,1
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,162.73,Medium,Sunny,No,No,Thursday,0
+Summer,Khulna,Garlic,Chinese Garlic,Kg,179.35,High,Rainy,Yes,No,Friday,0
+Monsoon,Khulna,Rice,BR-28 Rice,Kg,72.4,Medium,Sunny,No,No,Tuesday,0
+Winter,Chattogram,Rice,Najirshail Rice,Kg,67.94,High,Sunny,No,No,Tuesday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,70.76,Medium,Sunny,No,Yes,Saturday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,132.52,Medium,Rainy,No,No,Wednesday,1
+Summer,Sylhet,Potato,Local Potato,Kg,30.31,Medium,Sunny,No,No,Tuesday,0
+Summer,Rajshahi,Onion,Indian Onion,Kg,88.62,Medium,Rainy,Yes,Yes,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,33.0,High,Sunny,Yes,No,Sunday,0
+Summer,Chattogram,Onion,Local Onion,Kg,86.06,High,Sunny,No,Yes,Saturday,0
+Winter,Rajshahi,Onion,Indian Onion,Kg,72.81,High,Flood,No,No,Wednesday,1
+Summer,Rajshahi,Rice,Miniket Rice,Kg,65.15,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,80.0,Low,Rainy,No,Yes,Saturday,1
+Summer,Chattogram,Onion,Indian Onion,Kg,62.35,Medium,Sunny,No,No,Friday,0
+Winter,Chattogram,Onion,Local Onion,Kg,112.65,Low,Sunny,No,No,Thursday,1
+Summer,Khulna,Rice,Najirshail Rice,Kg,64.04,Medium,Rainy,Yes,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,88.34,Medium,Rainy,No,No,Thursday,0
+Summer,Chattogram,Onion,Indian Onion,Kg,81.93,Low,Sunny,Yes,No,Thursday,0
+Monsoon,Rajshahi,Potato,Local Potato,Kg,32.58,Medium,Sunny,No,No,Monday,0
+Monsoon,Sylhet,Onion,Local Onion,Kg,72.97,Medium,Sunny,Yes,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,118.46,High,Sunny,Yes,No,Monday,0
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,140.53,High,Rainy,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,73.21,Medium,Rainy,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,66.1,Medium,Rainy,No,No,Saturday,0
+Monsoon,Khulna,Onion,Local Onion,Kg,80.64,High,Flood,No,No,Monday,1
+Monsoon,Khulna,Onion,Local Onion,Kg,103.59,Medium,Sunny,No,No,Thursday,0
+Summer,Chattogram,Rice,Miniket Rice,Kg,64.81,High,Rainy,Yes,Yes,Monday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,38.54,Medium,Rainy,No,Yes,Sunday,1
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,106.41,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,32.79,High,Sunny,No,Yes,Wednesday,0
+Monsoon,Sylhet,Rice,BR-28 Rice,Kg,61.64,High,Rainy,Yes,No,Thursday,0
+Winter,Sylhet,Edible Oil,Soybean Oil,L,134.52,High,Sunny,Yes,No,Thursday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,28.93,High,Sunny,No,Yes,Thursday,0
+Winter,Khulna,Garlic,Chinese Garlic,Kg,153.56,High,Sunny,No,No,Tuesday,0
+Summer,Chattogram,Lentil,Local Lentil,Kg,111.57,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Rajshahi,Rice,Najirshail Rice,Kg,56.87,Medium,Sunny,Yes,No,Thursday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,32.01,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,152.11,Medium,Rainy,Yes,No,Thursday,0
+Summer,Sylhet,Edible Oil,Palm Oil,L,188.84,Low,Rainy,No,No,Saturday,1
+Summer,Khulna,Lentil,Local Lentil,Kg,92.68,High,Sunny,Yes,No,Saturday,0
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,154.75,Medium,Rainy,No,No,Monday,0
+Summer,Khulna,Onion,Indian Onion,Kg,68.62,High,Rainy,Yes,No,Thursday,0
+Winter,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,68.56,Medium,Sunny,No,No,Thursday,0
+Winter,Rajshahi,Garlic,Chinese Garlic,Kg,132.52,High,Sunny,Yes,No,Tuesday,0
+Monsoon,Sylhet,Onion,Indian Onion,Kg,82.54,Medium,Rainy,No,No,Sunday,0
+Summer,Chattogram,Edible Oil,Soybean Oil,L,178.6,Medium,Rainy,No,Yes,Sunday,1
+Winter,Barishal,Potato,Local Potato,Kg,27.28,Medium,Sunny,No,No,Monday,0
+Winter,Chattogram,Onion,Indian Onion,Kg,76.93,Medium,Rainy,Yes,No,Wednesday,0
+Summer,Sylhet,Edible Oil,Soybean Oil,L,175.68,High,Rainy,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,200.0,Low,Sunny,No,Yes,Sunday,1
+Winter,Khulna,Garlic,Chinese Garlic,Kg,165.4,Medium,Sunny,Yes,No,Friday,0
+Winter,Sylhet,Edible Oil,Soybean Oil,L,171.45,High,Sunny,No,No,Sunday,0
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,89.88,Medium,Sunny,Yes,No,Saturday,0
+Winter,Khulna,Rice,Miniket Rice,Kg,65.32,Medium,Sunny,No,No,Saturday,0
+Summer,Chattogram,Rice,Miniket Rice,Kg,56.82,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Rajshahi,Potato,Cold Storage Potato,Kg,34.61,High,Flood,No,Yes,Tuesday,1
+Summer,Sylhet,Rice,Najirshail Rice,Kg,71.94,Medium,Sunny,No,No,Wednesday,0
+Winter,Khulna,Lentil,Local Lentil,Kg,121.12,Medium,Sunny,No,No,Tuesday,0
+Summer,Khulna,Rice,BR-28 Rice,Kg,80.0,Low,Sunny,No,No,Friday,1
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,28.31,Low,Sunny,Yes,Yes,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,191.18,Medium,Rainy,No,Yes,Thursday,1
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,140.0,Low,Sunny,No,Yes,Friday,1
+Summer,Khulna,Potato,Cold Storage Potato,Kg,27.9,Medium,Sunny,Yes,Yes,Sunday,0
+Winter,Rajshahi,Edible Oil,Soybean Oil,L,179.88,Medium,Rainy,No,No,Tuesday,0
+Summer,Khulna,Onion,Local Onion,Kg,82.22,Medium,Sunny,No,Yes,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,187.06,Low,Flood,No,No,Friday,1
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,126.32,Low,Rainy,No,No,Monday,1
+Monsoon,Khulna,Edible Oil,Soybean Oil,L,198.82,Medium,Rainy,No,Yes,Thursday,1
+Summer,Barishal,Garlic,Chinese Garlic,Kg,135.07,High,Rainy,Yes,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,30.0,Medium,Sunny,No,No,Sunday,0
+Summer,Barishal,Onion,Indian Onion,Kg,82.53,Medium,Rainy,No,No,Friday,0
+Winter,Barishal,Garlic,Chinese Garlic,Kg,136.61,Medium,Sunny,Yes,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,87.16,Low,Rainy,No,No,Saturday,1
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,174.91,Medium,Rainy,No,Yes,Saturday,1
+Summer,Barishal,Edible Oil,Soybean Oil,L,174.03,High,Rainy,No,Yes,Sunday,1
+Winter,Khulna,Onion,Local Onion,Kg,82.04,Medium,Sunny,No,No,Saturday,0
+Summer,Khulna,Rice,BR-28 Rice,Kg,64.47,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Rajshahi,Onion,Local Onion,Kg,94.09,Medium,Sunny,No,No,Tuesday,0
+Winter,Khulna,Onion,Indian Onion,Kg,72.23,Low,Rainy,Yes,No,Wednesday,1
+Summer,Rajshahi,Potato,Local Potato,Kg,36.16,High,Flood,Yes,No,Monday,0
+Winter,Khulna,Rice,BR-28 Rice,Kg,71.6,Medium,Rainy,No,No,Wednesday,0
+Summer,Barishal,Rice,Najirshail Rice,Kg,77.98,Medium,Sunny,No,Yes,Sunday,1
+Summer,Khulna,Garlic,Chinese Garlic,Kg,169.6,Medium,Sunny,No,No,Thursday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,61.0,Medium,Rainy,Yes,Yes,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,141.69,High,Rainy,No,Yes,Tuesday,1
+Summer,Khulna,Lentil,Imported Lentil,Kg,101.51,Medium,Sunny,Yes,No,Thursday,0
+Winter,Rajshahi,Edible Oil,Palm Oil,L,167.63,Medium,Sunny,No,No,Thursday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,35.82,Low,Sunny,Yes,Yes,Tuesday,1
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,63.53,Medium,Rainy,No,No,Sunday,0
+Summer,Rajshahi,Edible Oil,Soybean Oil,L,158.35,Medium,Sunny,Yes,No,Tuesday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,33.93,Low,Sunny,No,Yes,Wednesday,1
+Summer,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,73.16,Low,Sunny,No,No,Monday,1
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,28.8,Medium,Rainy,Yes,No,Wednesday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,30.06,High,Sunny,No,No,Tuesday,0
+Monsoon,Khulna,Rice,Najirshail Rice,Kg,56.77,Medium,Sunny,Yes,No,Thursday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,200.0,Low,Rainy,No,No,Thursday,1
+Summer,Khulna,Garlic,Chinese Garlic,Kg,144.97,High,Sunny,No,No,Saturday,0
+Summer,Sylhet,Lentil,Imported Lentil,Kg,108.3,Medium,Rainy,No,No,Friday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,26.84,High,Rainy,Yes,Yes,Wednesday,0
+Summer,Khulna,Rice,Miniket Rice,Kg,60.18,Medium,Rainy,Yes,No,Friday,0
+Summer,Khulna,Onion,Local Onion,Kg,99.65,Medium,Rainy,No,No,Thursday,0
+Winter,Khulna,Onion,Local Onion,Kg,68.05,Medium,Rainy,Yes,No,Friday,0
+Summer,Khulna,Lentil,Imported Lentil,Kg,116.67,Medium,Rainy,Yes,Yes,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,200.0,Low,Sunny,No,No,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,64.59,Medium,Rainy,No,No,Saturday,0
+Winter,Khulna,Rice,BR-28 Rice,Kg,64.76,Medium,Sunny,No,No,Wednesday,0
+Winter,Rajshahi,Lentil,Imported Lentil,Kg,109.3,Medium,Rainy,Yes,No,Monday,0
+Winter,Rajshahi,Potato,Cold Storage Potato,Kg,31.78,Medium,Sunny,Yes,No,Thursday,0
+Winter,Sylhet,Potato,Local Potato,Kg,29.92,Medium,Rainy,Yes,No,Thursday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,74.93,High,Sunny,No,Yes,Tuesday,1
+Summer,Chattogram,Rice,BR-28 Rice,Kg,58.39,Medium,Sunny,No,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,80.0,Low,Rainy,No,Yes,Saturday,1
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,112.42,High,Flood,Yes,No,Wednesday,0
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,154.26,Medium,Rainy,Yes,No,Sunday,0
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,200.0,Low,Sunny,No,Yes,Saturday,1
+Monsoon,Barishal,Potato,Local Potato,Kg,29.33,Low,Rainy,Yes,No,Friday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,128.5,High,Sunny,Yes,Yes,Tuesday,0
+Summer,Barishal,Edible Oil,Soybean Oil,L,184.81,Low,Sunny,No,Yes,Sunday,1
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,36.02,Low,Sunny,No,Yes,Friday,1
+Monsoon,Khulna,Rice,Najirshail Rice,Kg,75.13,High,Flood,No,No,Monday,1
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,118.55,Medium,Sunny,No,Yes,Wednesday,0
+Summer,Rajshahi,Garlic,Chinese Garlic,Kg,158.95,Medium,Sunny,No,Yes,Saturday,0
+Winter,Rajshahi,Lentil,Imported Lentil,Kg,106.58,Medium,Rainy,Yes,No,Tuesday,0
+Winter,Sylhet,Edible Oil,Palm Oil,L,159.87,High,Sunny,No,No,Saturday,0
+Winter,Chattogram,Edible Oil,Palm Oil,L,178.5,High,Sunny,No,No,Saturday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,73.1,Medium,Rainy,No,Yes,Monday,1
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,152.95,High,Rainy,No,No,Monday,0
+Winter,Barishal,Garlic,Chinese Garlic,Kg,156.27,Medium,Sunny,No,No,Tuesday,0
+Winter,Barishal,Potato,Cold Storage Potato,Kg,36.86,High,Sunny,No,Yes,Tuesday,0
+Winter,Chattogram,Garlic,Local Garlic,Kg,173.26,Medium,Sunny,Yes,No,Saturday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,29.65,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,132.5,Low,Flood,Yes,No,Saturday,1
+Winter,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,89.87,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Khulna,Edible Oil,Palm Oil,L,187.43,Medium,Rainy,No,No,Friday,0
+Monsoon,Sylhet,Rice,Miniket Rice,Kg,69.09,High,Sunny,No,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,36.2,Low,Sunny,No,No,Tuesday,1
+Monsoon,Sylhet,Onion,Local Onion,Kg,97.23,Medium,Rainy,No,No,Wednesday,0
+Monsoon,Sylhet,Rice,BR-28 Rice,Kg,71.92,Medium,Rainy,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,70.66,Low,Sunny,Yes,Yes,Thursday,1
+Monsoon,Khulna,Lentil,Local Lentil,Kg,123.47,Low,Rainy,Yes,No,Friday,1
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,33.66,High,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,80.0,Medium,Rainy,No,Yes,Monday,1
+Summer,Sylhet,Lentil,Local Lentil,Kg,140.0,Low,Rainy,No,No,Monday,1
+Winter,Barishal,Potato,Local Potato,Kg,33.09,Medium,Sunny,Yes,No,Monday,0
+Summer,Sylhet,Lentil,Local Lentil,Kg,102.01,High,Rainy,Yes,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,59.91,Medium,Sunny,No,No,Wednesday,0
+Summer,Khulna,Potato,Local Potato,Kg,28.74,High,Sunny,Yes,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,69.82,Medium,Sunny,No,Yes,Tuesday,0
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,128.71,Medium,Rainy,No,Yes,Thursday,1
+Summer,Chattogram,Onion,Indian Onion,Kg,76.22,Medium,Sunny,No,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,38.0,Low,Sunny,Yes,Yes,Thursday,1
+Winter,Chattogram,Rice,BR-28 Rice,Kg,65.72,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,33.24,Medium,Rainy,No,Yes,Saturday,1
+Winter,Rajshahi,Onion,Local Onion,Kg,86.28,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,77.42,Medium,Rainy,No,Yes,Saturday,1
+Winter,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,146.91,Low,Sunny,No,No,Saturday,1
+Summer,Rajshahi,Onion,Indian Onion,Kg,99.79,High,Rainy,No,No,Saturday,0
+Winter,Sylhet,Garlic,Local Garlic,Kg,158.6,Medium,Sunny,Yes,No,Tuesday,0
+Summer,Khulna,Rice,BR-28 Rice,Kg,70.44,Low,Sunny,Yes,No,Sunday,0
+Summer,Barishal,Rice,BR-28 Rice,Kg,66.5,Medium,Sunny,Yes,No,Monday,0
+Summer,Rajshahi,Edible Oil,Palm Oil,L,188.31,Low,Sunny,No,Yes,Thursday,1
+Monsoon,Rajshahi,Edible Oil,Palm Oil,L,177.52,Medium,Rainy,No,No,Wednesday,0
+Summer,Rajshahi,Garlic,Local Garlic,Kg,100.0,Medium,Sunny,Yes,No,Tuesday,0
+Summer,Rajshahi,Rice,Najirshail Rice,Kg,57.24,Medium,Sunny,Yes,No,Wednesday,0
+Winter,Chattogram,Potato,Local Potato,Kg,26.76,Medium,Sunny,No,No,Friday,0
+Winter,Barishal,Potato,Cold Storage Potato,Kg,25.66,Low,Rainy,Yes,No,Wednesday,1
+Winter,Chattogram,Onion,Local Onion,Kg,82.25,High,Rainy,Yes,No,Thursday,0
+Winter,Rajshahi,Potato,Local Potato,Kg,28.68,High,Sunny,Yes,No,Sunday,0
+Winter,Barishal,Rice,Najirshail Rice,Kg,63.83,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,119.95,High,Sunny,No,Yes,Monday,0
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,140.0,Medium,Rainy,No,Yes,Saturday,1
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,173.34,Medium,Flood,No,Yes,Wednesday,1
+Winter,Khulna,Onion,Indian Onion,Kg,82.68,Medium,Sunny,No,No,Friday,0
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,72.18,Low,Sunny,Yes,Yes,Friday,1
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,68.15,Medium,Rainy,No,No,Saturday,0
+Summer,Chattogram,Lentil,Local Lentil,Kg,129.68,Medium,Sunny,No,No,Friday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,26.18,Medium,Rainy,No,No,Wednesday,0
+Monsoon,Chattogram,Potato,Local Potato,Kg,28.77,Medium,Sunny,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,115.68,Medium,Rainy,Yes,No,Sunday,0
+Winter,Khulna,Rice,Najirshail Rice,Kg,71.13,Medium,Sunny,No,No,Monday,0
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,63.76,High,Sunny,No,Yes,Friday,0
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,100.23,Medium,Rainy,No,Yes,Wednesday,1
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,174.06,High,Rainy,Yes,No,Monday,0
+Winter,Sylhet,Onion,Local Onion,Kg,78.02,Medium,Sunny,Yes,No,Friday,0
+Summer,Rajshahi,Rice,Najirshail Rice,Kg,63.57,Low,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,186.56,High,Rainy,No,No,Friday,0
+Summer,Barishal,Garlic,Chinese Garlic,Kg,188.42,Low,Rainy,Yes,Yes,Wednesday,1
+Summer,Khulna,Lentil,Imported Lentil,Kg,114.08,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,76.51,Low,Flood,Yes,Yes,Friday,1
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,145.49,Medium,Rainy,No,No,Tuesday,0
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,69.82,Medium,Flood,No,No,Tuesday,1
+Winter,Chattogram,Onion,Local Onion,Kg,74.92,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,68.84,High,Rainy,Yes,No,Monday,0
+Monsoon,Rajshahi,Onion,Local Onion,Kg,70.14,Low,Sunny,Yes,No,Wednesday,0
+Winter,Khulna,Lentil,Local Lentil,Kg,129.29,Low,Rainy,No,No,Friday,1
+Summer,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,79.94,Low,Sunny,No,No,Friday,1
+Summer,Sylhet,Lentil,Local Lentil,Kg,140.0,Low,Sunny,No,Yes,Sunday,1
+Winter,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,64.71,Medium,Sunny,No,No,Sunday,0
+Monsoon,Chattogram,Garlic,Local Garlic,Kg,147.97,High,Rainy,No,No,Wednesday,0
+Monsoon,Khulna,Rice,Miniket Rice,Kg,64.43,Medium,Flood,Yes,No,Wednesday,0
+Winter,Chattogram,Lentil,Local Lentil,Kg,139.52,Low,Rainy,No,No,Monday,1
+Winter,Khulna,Onion,Local Onion,Kg,100.87,Low,Sunny,Yes,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,136.92,High,Sunny,Yes,No,Sunday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,36.15,Medium,Rainy,No,No,Monday,0
+Winter,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,131.06,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,80.0,Low,Rainy,No,No,Thursday,1
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,29.76,High,Sunny,Yes,No,Saturday,0
+Summer,Khulna,Rice,Miniket Rice,Kg,59.35,Medium,Sunny,Yes,Yes,Sunday,0
+Winter,Sylhet,Lentil,Local Lentil,Kg,109.76,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,128.23,Low,Rainy,No,No,Wednesday,1
+Monsoon,Barishal,Lentil,Imported Lentil,Kg,140.0,Medium,Rainy,No,No,Friday,1
+Winter,Sylhet,Edible Oil,Soybean Oil,L,169.56,Medium,Sunny,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,80.0,Low,Rainy,No,No,Monday,1
+Winter,Rajshahi,Lentil,Local Lentil,Kg,109.87,High,Rainy,Yes,No,Wednesday,0
+Winter,Rajshahi,Garlic,Chinese Garlic,Kg,125.03,Medium,Sunny,Yes,No,Sunday,0
+Winter,Sylhet,Garlic,Local Garlic,Kg,160.58,Medium,Sunny,No,Yes,Wednesday,0
+Monsoon,Sylhet,Rice,BR-28 Rice,Kg,67.65,Medium,Rainy,No,Yes,Saturday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,80.0,High,Flood,Yes,No,Saturday,0
+Winter,Sylhet,Garlic,Chinese Garlic,Kg,188.58,Medium,Sunny,No,No,Thursday,0
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,66.89,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Rajshahi,Rice,Najirshail Rice,Kg,73.1,Medium,Rainy,No,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,116.33,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Barishal,Edible Oil,Soybean Oil,L,165.83,Low,Sunny,Yes,No,Saturday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,122.03,Medium,Sunny,No,No,Monday,0
+Summer,Sylhet,Potato,Local Potato,Kg,37.41,Low,Sunny,No,No,Wednesday,1
+Summer,Chattogram,Rice,Najirshail Rice,Kg,61.71,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Sylhet,Rice,Miniket Rice,Kg,69.19,Medium,Rainy,No,Yes,Wednesday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,66.76,Medium,Sunny,No,No,Sunday,0
+Winter,Sylhet,Garlic,Chinese Garlic,Kg,132.78,High,Sunny,No,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,30.76,Medium,Sunny,No,No,Tuesday,0
+Winter,Rajshahi,Rice,BR-28 Rice,Kg,66.9,Low,Sunny,No,Yes,Thursday,1
+Summer,Barishal,Onion,Local Onion,Kg,92.68,High,Sunny,No,Yes,Sunday,0
+Winter,Sylhet,Rice,BR-28 Rice,Kg,60.05,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,122.94,High,Rainy,No,Yes,Thursday,1
+Summer,Chattogram,Rice,BR-28 Rice,Kg,66.94,Medium,Rainy,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,137.57,Low,Flood,Yes,No,Saturday,1
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,87.39,Medium,Sunny,Yes,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,170.14,Medium,Rainy,Yes,No,Saturday,0
+Winter,Barishal,Lentil,Imported Lentil,Kg,126.68,Low,Sunny,No,No,Saturday,1
+Monsoon,Khulna,Potato,Cold Storage Potato,Kg,35.33,Medium,Rainy,No,No,Wednesday,0
+Summer,Rajshahi,Edible Oil,Soybean Oil,L,155.37,Medium,Rainy,Yes,No,Monday,0
+Winter,Sylhet,Garlic,Local Garlic,Kg,159.16,Medium,Sunny,No,No,Friday,0
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,159.38,High,Sunny,Yes,No,Saturday,0
+Monsoon,Chattogram,Garlic,Local Garlic,Kg,139.24,High,Rainy,No,No,Saturday,0
+Summer,Khulna,Lentil,Local Lentil,Kg,122.38,Medium,Sunny,No,No,Friday,0
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,66.05,High,Sunny,No,Yes,Sunday,0
+Summer,Chattogram,Rice,Miniket Rice,Kg,75.21,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,105.33,High,Rainy,No,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,190.05,Low,Rainy,No,No,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,98.43,Low,Rainy,No,No,Sunday,1
+Summer,Khulna,Rice,BR-28 Rice,Kg,67.42,Medium,Rainy,Yes,No,Friday,0
+Winter,Chattogram,Potato,Local Potato,Kg,28.39,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,142.25,Low,Rainy,Yes,No,Friday,1
+Winter,Chattogram,Edible Oil,Palm Oil,L,158.01,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,77.63,Medium,Rainy,Yes,Yes,Friday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,112.91,High,Sunny,No,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,109.24,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,28.46,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Sylhet,Potato,Local Potato,Kg,35.65,Medium,Sunny,No,Yes,Friday,0
+Monsoon,Barishal,Onion,Local Onion,Kg,83.28,Low,Sunny,Yes,No,Monday,0
+Monsoon,Barishal,Garlic,Local Garlic,Kg,144.31,Medium,Rainy,No,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,168.88,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,29.56,Medium,Sunny,No,No,Sunday,0
+Monsoon,Barishal,Lentil,Local Lentil,Kg,138.25,High,Rainy,No,Yes,Saturday,1
+Winter,Khulna,Onion,Indian Onion,Kg,109.96,Low,Sunny,No,No,Monday,1
+Monsoon,Sylhet,Onion,Local Onion,Kg,88.05,Low,Rainy,Yes,No,Friday,1
+Monsoon,Barishal,Lentil,Local Lentil,Kg,127.08,Medium,Rainy,No,No,Monday,0
+Monsoon,Barishal,Lentil,Local Lentil,Kg,138.7,Low,Rainy,No,No,Friday,1
+Summer,Chattogram,Garlic,Local Garlic,Kg,151.88,Medium,Rainy,Yes,No,Tuesday,0
+Winter,Rajshahi,Potato,Cold Storage Potato,Kg,27.19,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Khulna,Potato,Local Potato,Kg,26.51,Medium,Sunny,No,No,Monday,0
+Summer,Chattogram,Lentil,Local Lentil,Kg,132.63,Medium,Rainy,No,No,Thursday,1
+Winter,Chattogram,Rice,Najirshail Rice,Kg,80.0,Low,Sunny,No,No,Wednesday,1
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,119.1,High,Rainy,Yes,No,Saturday,0
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,96.78,Medium,Rainy,Yes,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,57.94,High,Sunny,Yes,No,Saturday,0
+Summer,Barishal,Lentil,Imported Lentil,Kg,114.1,High,Sunny,Yes,No,Thursday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,25.06,High,Sunny,Yes,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,78.4,High,Rainy,No,Yes,Sunday,1
+Winter,Chattogram,Rice,Najirshail Rice,Kg,57.54,High,Sunny,Yes,No,Sunday,0
+Winter,Chattogram,Onion,Indian Onion,Kg,99.25,Low,Sunny,Yes,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,61.28,Medium,Sunny,Yes,Yes,Thursday,0
+Monsoon,Khulna,Lentil,Local Lentil,Kg,133.07,Medium,Rainy,No,Yes,Tuesday,1
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,168.83,Low,Rainy,Yes,Yes,Tuesday,1
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,112.81,Low,Sunny,Yes,No,Sunday,0
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,194.39,Medium,Rainy,No,Yes,Friday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,115.32,High,Rainy,Yes,Yes,Friday,0
+Summer,Khulna,Edible Oil,Palm Oil,L,188.42,Low,Sunny,Yes,Yes,Wednesday,1
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,200.0,Low,Flood,No,No,Thursday,1
+Winter,Sylhet,Potato,Local Potato,Kg,31.15,Low,Rainy,Yes,No,Tuesday,1
+Winter,Chattogram,Edible Oil,Soybean Oil,L,161.22,Medium,Sunny,Yes,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,71.16,Low,Sunny,No,No,Tuesday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,67.98,Medium,Sunny,No,No,Monday,0
+Winter,Rajshahi,Potato,Cold Storage Potato,Kg,28.21,Medium,Sunny,No,No,Thursday,0
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,130.33,Medium,Flood,Yes,No,Saturday,0
+Monsoon,Chattogram,Potato,Local Potato,Kg,35.01,Low,Flood,No,No,Monday,1
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,78.97,Low,Sunny,Yes,No,Friday,1
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,166.22,Low,Sunny,No,No,Wednesday,1
+Winter,Sylhet,Onion,Local Onion,Kg,92.84,Medium,Sunny,No,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,185.89,Medium,Rainy,Yes,Yes,Tuesday,0
+Summer,Barishal,Lentil,Local Lentil,Kg,122.56,High,Sunny,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,110.64,Low,Flood,Yes,Yes,Tuesday,1
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,135.9,High,Flood,No,No,Thursday,1
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,135.01,Medium,Sunny,Yes,No,Monday,0
+Winter,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,83.22,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,38.74,Medium,Rainy,No,Yes,Tuesday,1
+Winter,Khulna,Rice,Miniket Rice,Kg,70.18,Medium,Sunny,Yes,No,Sunday,0
+Winter,Rajshahi,Garlic,Chinese Garlic,Kg,200.0,Medium,Sunny,No,No,Thursday,0
+Monsoon,Barishal,Rice,Miniket Rice,Kg,80.0,Low,Rainy,No,Yes,Thursday,1
+Summer,Chattogram,Lentil,Local Lentil,Kg,138.24,Medium,Rainy,No,Yes,Wednesday,1
+Summer,Chattogram,Onion,Indian Onion,Kg,72.65,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,199.03,Low,Rainy,No,No,Thursday,1
+Winter,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,122.7,Medium,Rainy,No,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,40.0,Low,Flood,No,Yes,Wednesday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,68.19,Low,Sunny,Yes,Yes,Thursday,1
+Monsoon,Sylhet,Edible Oil,Soybean Oil,L,200.0,Low,Rainy,No,Yes,Saturday,1
+Monsoon,Khulna,Potato,Cold Storage Potato,Kg,39.1,Medium,Rainy,No,Yes,Monday,1
+Summer,Khulna,Edible Oil,Palm Oil,L,133.36,High,Sunny,Yes,No,Sunday,0
+Monsoon,Barishal,Onion,Local Onion,Kg,85.57,Medium,Rainy,No,No,Saturday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,59.39,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,61.31,High,Sunny,No,No,Monday,0
+Summer,Sylhet,Potato,Local Potato,Kg,33.73,Low,Sunny,Yes,No,Friday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,70.67,Medium,Sunny,No,No,Monday,0
+Winter,Sylhet,Rice,Miniket Rice,Kg,62.46,High,Sunny,Yes,No,Saturday,0
+Monsoon,Sylhet,Onion,Indian Onion,Kg,92.82,High,Sunny,No,No,Sunday,0
+Monsoon,Barishal,Rice,Najirshail Rice,Kg,71.02,Low,Rainy,Yes,No,Wednesday,1
+Summer,Khulna,Rice,Miniket Rice,Kg,72.14,Low,Rainy,Yes,Yes,Sunday,1
+Summer,Sylhet,Rice,Miniket Rice,Kg,61.25,Medium,Sunny,Yes,No,Monday,0
+Monsoon,Barishal,Potato,Cold Storage Potato,Kg,31.27,High,Rainy,No,No,Tuesday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,133.69,Low,Sunny,No,No,Sunday,1
+Winter,Sylhet,Lentil,Imported Lentil,Kg,140.0,Medium,Rainy,No,Yes,Sunday,1
+Winter,Barishal,Onion,Local Onion,Kg,97.65,High,Sunny,No,Yes,Sunday,0
+Summer,Chattogram,Garlic,Local Garlic,Kg,151.42,Medium,Sunny,No,No,Monday,0
+Monsoon,Khulna,Potato,Cold Storage Potato,Kg,34.43,Low,Sunny,No,No,Saturday,1
+Summer,Khulna,Rice,BR-28 Rice,Kg,64.06,High,Sunny,Yes,No,Thursday,0
+Winter,Khulna,Onion,Local Onion,Kg,74.15,Medium,Sunny,Yes,Yes,Saturday,0
+Winter,Khulna,Edible Oil,Soybean Oil,L,175.72,Low,Sunny,No,No,Saturday,1
+Summer,Chattogram,Onion,Local Onion,Kg,73.24,Low,Sunny,Yes,No,Tuesday,0
+Monsoon,Chattogram,Lentil,Imported Lentil,Kg,133.78,Medium,Rainy,No,No,Wednesday,1
+Summer,Khulna,Edible Oil,Palm Oil,L,186.78,Medium,Sunny,No,Yes,Friday,0
+Summer,Chattogram,Onion,Local Onion,Kg,94.2,Low,Sunny,No,Yes,Thursday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,166.61,Medium,Sunny,No,No,Friday,0
+Monsoon,Sylhet,Edible Oil,Palm Oil,L,183.37,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,31.06,Medium,Rainy,Yes,No,Monday,0
+Summer,Rajshahi,Edible Oil,Palm Oil,L,200.0,Low,Rainy,No,Yes,Sunday,1
+Monsoon,Barishal,Onion,Local Onion,Kg,114.98,Low,Sunny,No,No,Saturday,1
+Monsoon,Rajshahi,Potato,Cold Storage Potato,Kg,34.06,Medium,Rainy,No,No,Sunday,1
+Winter,Khulna,Rice,Miniket Rice,Kg,66.92,Medium,Sunny,Yes,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,147.4,High,Sunny,No,No,Tuesday,0
+Summer,Sylhet,Rice,BR-28 Rice,Kg,65.77,High,Sunny,Yes,No,Thursday,0
+Monsoon,Rajshahi,Garlic,Chinese Garlic,Kg,132.29,Medium,Sunny,Yes,No,Tuesday,0
+Summer,Khulna,Lentil,Imported Lentil,Kg,129.12,Medium,Sunny,No,Yes,Sunday,1
+Winter,Rajshahi,Onion,Local Onion,Kg,59.03,High,Sunny,Yes,No,Saturday,0
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,63.59,High,Sunny,No,No,Tuesday,0
+Winter,Khulna,Rice,BR-28 Rice,Kg,58.19,High,Sunny,Yes,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,179.42,Medium,Rainy,No,No,Saturday,1
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,74.29,Medium,Rainy,Yes,No,Friday,0
+Summer,Khulna,Onion,Local Onion,Kg,82.85,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Sylhet,Onion,Indian Onion,Kg,99.82,Low,Rainy,No,No,Friday,1
+Winter,Rajshahi,Rice,Miniket Rice,Kg,53.61,Medium,Sunny,Yes,No,Saturday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,66.86,Medium,Rainy,Yes,Yes,Tuesday,1
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,87.24,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,87.44,Low,Flood,No,Yes,Tuesday,1
+Winter,Barishal,Rice,Miniket Rice,Kg,67.92,Medium,Rainy,Yes,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,69.42,Medium,Sunny,No,Yes,Friday,1
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,168.06,Medium,Rainy,No,No,Thursday,1
+Summer,Chattogram,Rice,Miniket Rice,Kg,67.52,Low,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,176.57,Low,Rainy,No,No,Sunday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,121.28,Medium,Rainy,No,Yes,Saturday,1
+Monsoon,Sylhet,Edible Oil,Palm Oil,L,157.67,High,Rainy,Yes,No,Saturday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,141.62,Medium,Rainy,No,No,Thursday,1
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,28.81,Medium,Sunny,No,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,58.13,High,Sunny,Yes,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,24.57,High,Rainy,Yes,No,Friday,0
+Winter,Rajshahi,Rice,Najirshail Rice,Kg,57.98,High,Sunny,Yes,No,Sunday,0
+Winter,Chattogram,Rice,Najirshail Rice,Kg,61.01,High,Sunny,Yes,No,Sunday,0
+Monsoon,Barishal,Garlic,Chinese Garlic,Kg,156.95,Medium,Rainy,No,Yes,Thursday,1
+Summer,Sylhet,Edible Oil,Palm Oil,L,179.56,Medium,Rainy,No,No,Monday,1
+Winter,Sylhet,Potato,Cold Storage Potato,Kg,26.48,High,Sunny,Yes,No,Sunday,0
+Summer,Rajshahi,Rice,Najirshail Rice,Kg,65.25,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Sylhet,Onion,Local Onion,Kg,85.56,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Khulna,Onion,Local Onion,Kg,92.82,Low,Rainy,No,No,Sunday,1
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,35.33,Medium,Rainy,Yes,Yes,Wednesday,1
+Summer,Sylhet,Edible Oil,Soybean Oil,L,180.48,High,Rainy,No,No,Tuesday,1
+Monsoon,Chattogram,Onion,Local Onion,Kg,99.94,Medium,Rainy,No,No,Saturday,1
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,80.0,Medium,Sunny,No,No,Wednesday,1
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,186.56,Medium,Rainy,No,No,Monday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,107.31,High,Rainy,No,No,Sunday,1
+Summer,Barishal,Potato,Local Potato,Kg,29.16,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,27.89,High,Sunny,Yes,No,Sunday,0
+Winter,Sylhet,Lentil,Imported Lentil,Kg,107.49,Medium,Sunny,Yes,No,Thursday,0
+Winter,Khulna,Rice,Najirshail Rice,Kg,72.77,High,Sunny,No,No,Saturday,0
+Winter,Barishal,Onion,Indian Onion,Kg,103.21,High,Sunny,Yes,Yes,Friday,0
+Winter,Khulna,Onion,Local Onion,Kg,93.59,High,Sunny,No,Yes,Thursday,1
+Summer,Barishal,Rice,Miniket Rice,Kg,60.78,Medium,Sunny,Yes,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,32.12,Medium,Sunny,No,No,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,162.2,Medium,Sunny,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,168.47,Medium,Rainy,No,No,Monday,1
+Monsoon,Chattogram,Garlic,Chinese Garlic,Kg,174.47,High,Rainy,No,No,Sunday,1
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,160.15,Low,Sunny,No,No,Wednesday,1
+Summer,Chattogram,Onion,Indian Onion,Kg,99.28,High,Rainy,Yes,No,Wednesday,0
+Summer,Khulna,Garlic,Local Garlic,Kg,175.7,Low,Rainy,Yes,No,Tuesday,1
+Summer,Barishal,Edible Oil,Soybean Oil,L,156.16,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Barishal,Onion,Local Onion,Kg,115.9,Medium,Rainy,No,No,Sunday,1
+Monsoon,Chattogram,Garlic,Chinese Garlic,Kg,166.2,Medium,Sunny,No,Yes,Tuesday,1
+Winter,Khulna,Garlic,Chinese Garlic,Kg,178.59,Medium,Sunny,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,34.5,Medium,Rainy,No,No,Friday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,155.91,Medium,Sunny,Yes,No,Saturday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,33.27,Low,Sunny,No,No,Thursday,1
+Winter,Chattogram,Potato,Local Potato,Kg,27.89,High,Sunny,Yes,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,115.79,Medium,Rainy,No,No,Thursday,0
+Summer,Khulna,Edible Oil,Palm Oil,L,161.19,Medium,Sunny,No,Yes,Sunday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,25.46,Medium,Sunny,Yes,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,118.86,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Barishal,Garlic,Chinese Garlic,Kg,179.94,Medium,Flood,Yes,Yes,Wednesday,1
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,172.83,Medium,Rainy,No,No,Friday,0
+Winter,Barishal,Potato,Local Potato,Kg,27.27,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,37.83,High,Rainy,No,No,Tuesday,1
+Monsoon,Rajshahi,Edible Oil,Palm Oil,L,129.26,High,Sunny,No,No,Tuesday,0
+Monsoon,Rajshahi,Onion,Local Onion,Kg,63.53,Medium,Sunny,Yes,No,Tuesday,0
+Winter,Khulna,Onion,Local Onion,Kg,74.93,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Barishal,Rice,Najirshail Rice,Kg,66.21,High,Rainy,No,No,Sunday,0
+Winter,Sylhet,Garlic,Local Garlic,Kg,183.03,Medium,Sunny,No,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,154.69,High,Sunny,No,No,Wednesday,0
+Winter,Khulna,Garlic,Local Garlic,Kg,139.53,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Khulna,Rice,Miniket Rice,Kg,60.67,Low,Rainy,Yes,No,Monday,1
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,32.6,High,Rainy,Yes,No,Thursday,0
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,127.9,High,Rainy,Yes,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,121.13,Medium,Rainy,Yes,No,Monday,0
+Winter,Khulna,Rice,Najirshail Rice,Kg,60.67,High,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,32.47,Low,Rainy,Yes,No,Saturday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,85.94,Low,Rainy,No,No,Wednesday,1
+Summer,Barishal,Onion,Indian Onion,Kg,80.02,Medium,Sunny,Yes,Yes,Sunday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,32.37,Medium,Sunny,No,No,Monday,0
+Summer,Barishal,Rice,Najirshail Rice,Kg,60.46,Medium,Rainy,Yes,No,Sunday,0
+Summer,Rajshahi,Edible Oil,Palm Oil,L,160.32,High,Sunny,No,No,Saturday,0
+Winter,Chattogram,Potato,Local Potato,Kg,40.0,Medium,Flood,No,No,Tuesday,1
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,25.62,High,Rainy,No,No,Sunday,0
+Summer,Barishal,Edible Oil,Palm Oil,L,187.49,Low,Rainy,No,No,Saturday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,133.13,Medium,Rainy,No,No,Saturday,1
+Winter,Rajshahi,Onion,Local Onion,Kg,99.88,Medium,Sunny,No,No,Saturday,0
+Monsoon,Rajshahi,Onion,Local Onion,Kg,106.26,Medium,Flood,No,No,Wednesday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,126.0,Medium,Rainy,No,Yes,Saturday,1
+Monsoon,Rajshahi,Onion,Local Onion,Kg,118.35,Low,Sunny,No,Yes,Friday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,60.46,High,Sunny,Yes,No,Sunday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,65.35,High,Sunny,No,No,Monday,0
+Summer,Barishal,Potato,Local Potato,Kg,36.29,Medium,Rainy,Yes,Yes,Saturday,0
+Winter,Khulna,Garlic,Local Garlic,Kg,141.68,Medium,Sunny,No,No,Monday,0
+Winter,Sylhet,Onion,Local Onion,Kg,97.64,Low,Rainy,Yes,Yes,Sunday,1
+Winter,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,192.6,Low,Sunny,No,No,Thursday,1
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,127.14,High,Rainy,No,Yes,Monday,1
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,166.18,High,Sunny,No,Yes,Thursday,0
+Monsoon,Khulna,Potato,Local Potato,Kg,33.39,Medium,Rainy,No,Yes,Friday,1
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,34.37,Medium,Rainy,No,No,Sunday,1
+Monsoon,Barishal,Garlic,Local Garlic,Kg,147.58,Medium,Sunny,No,No,Monday,0
+Summer,Khulna,Garlic,Local Garlic,Kg,163.41,Medium,Sunny,No,No,Wednesday,0
+Winter,Rajshahi,Rice,Najirshail Rice,Kg,67.95,Medium,Sunny,Yes,Yes,Saturday,0
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,132.67,Low,Rainy,No,Yes,Wednesday,1
+Summer,Chattogram,Garlic,Local Garlic,Kg,133.36,High,Sunny,No,No,Monday,0
+Monsoon,Khulna,Rice,Miniket Rice,Kg,61.61,Medium,Sunny,No,No,Sunday,0
+Summer,Sylhet,Potato,Local Potato,Kg,23.51,High,Sunny,Yes,No,Tuesday,0
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,35.63,Low,Sunny,No,No,Sunday,1
+Winter,Chattogram,Garlic,Chinese Garlic,Kg,125.74,Medium,Sunny,No,No,Thursday,0
+Monsoon,Khulna,Lentil,Local Lentil,Kg,131.65,Low,Sunny,Yes,Yes,Monday,1
+Monsoon,Khulna,Edible Oil,Palm Oil,L,153.65,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,29.3,Medium,Rainy,No,No,Sunday,1
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,31.91,Medium,Sunny,No,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,62.81,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,188.84,Low,Rainy,No,Yes,Thursday,1
+Monsoon,Chattogram,Onion,Local Onion,Kg,94.1,Low,Sunny,Yes,No,Saturday,0
+Winter,Rajshahi,Garlic,Local Garlic,Kg,136.99,High,Rainy,Yes,No,Thursday,0
+Summer,Barishal,Edible Oil,Palm Oil,L,189.52,Medium,Sunny,No,No,Sunday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,80.0,Low,Rainy,No,No,Wednesday,1
+Winter,Chattogram,Edible Oil,Palm Oil,L,200.0,Low,Sunny,No,Yes,Friday,1
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,63.62,Medium,Sunny,No,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,155.83,Low,Sunny,Yes,No,Sunday,0
+Winter,Rajshahi,Onion,Local Onion,Kg,74.65,Medium,Rainy,No,No,Thursday,1
+Winter,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,157.52,Medium,Sunny,No,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,62.8,High,Sunny,Yes,No,Monday,0
+Monsoon,Barishal,Garlic,Chinese Garlic,Kg,179.21,Medium,Rainy,No,No,Tuesday,1
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,33.02,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Sylhet,Rice,BR-28 Rice,Kg,80.0,Medium,Rainy,No,Yes,Friday,1
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,137.61,High,Sunny,No,No,Monday,0
+Summer,Rajshahi,Garlic,Chinese Garlic,Kg,181.4,Medium,Sunny,No,Yes,Friday,1
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,33.11,High,Rainy,No,No,Friday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,157.2,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,107.45,High,Rainy,No,No,Thursday,1
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,119.98,High,Rainy,Yes,No,Monday,0
+Monsoon,Khulna,Edible Oil,Palm Oil,L,162.62,High,Rainy,No,No,Sunday,1
+Summer,Rajshahi,Onion,Indian Onion,Kg,104.52,Low,Rainy,Yes,Yes,Sunday,1
+Monsoon,Khulna,Onion,Indian Onion,Kg,86.99,Medium,Rainy,No,No,Tuesday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,128.63,Low,Flood,No,No,Monday,1
+Summer,Rajshahi,Onion,Local Onion,Kg,95.59,Medium,Sunny,No,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,84.76,Low,Sunny,No,No,Sunday,1
+Summer,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,156.3,High,Sunny,Yes,Yes,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,112.33,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,194.51,Medium,Rainy,No,No,Friday,1
+Summer,Sylhet,Onion,Indian Onion,Kg,114.31,Medium,Rainy,No,Yes,Saturday,1
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,65.74,High,Rainy,Yes,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,181.7,Low,Flood,Yes,No,Wednesday,1
+Winter,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,101.79,Low,Rainy,Yes,Yes,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,64.52,High,Rainy,Yes,No,Saturday,0
+Monsoon,Rajshahi,Onion,Local Onion,Kg,78.46,Medium,Rainy,No,No,Tuesday,1
+Monsoon,Khulna,Rice,Miniket Rice,Kg,66.25,Medium,Sunny,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,154.18,Medium,Rainy,Yes,No,Saturday,0
+Winter,Sylhet,Garlic,Chinese Garlic,Kg,114.03,Medium,Sunny,No,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,107.22,Low,Rainy,Yes,No,Monday,1
+Summer,Rajshahi,Edible Oil,Soybean Oil,L,166.19,Medium,Rainy,No,No,Tuesday,1
+Summer,Sylhet,Potato,Local Potato,Kg,29.49,Medium,Sunny,Yes,No,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,33.18,High,Sunny,Yes,No,Saturday,0
+Winter,Rajshahi,Lentil,Imported Lentil,Kg,133.07,Medium,Rainy,No,No,Wednesday,1
+Winter,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,79.72,Low,Sunny,No,Yes,Thursday,1
+Monsoon,Rajshahi,Onion,Local Onion,Kg,107.33,Medium,Sunny,No,Yes,Friday,1
+Winter,Chattogram,Rice,Najirshail Rice,Kg,76.64,Medium,Rainy,No,No,Tuesday,1
+Monsoon,Khulna,Edible Oil,Palm Oil,L,181.06,Medium,Sunny,No,Yes,Thursday,0
+Monsoon,Barishal,Onion,Local Onion,Kg,62.26,Medium,Sunny,Yes,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,66.71,Low,Rainy,Yes,No,Tuesday,1
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,32.99,Medium,Rainy,No,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,64.44,High,Sunny,No,No,Friday,0
+Monsoon,Khulna,Rice,Miniket Rice,Kg,57.63,Medium,Sunny,Yes,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,30.62,Medium,Sunny,No,No,Friday,0
+Monsoon,Rajshahi,Rice,Najirshail Rice,Kg,70.69,Medium,Rainy,Yes,No,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,29.04,Medium,Sunny,Yes,No,Monday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,120.0,Medium,Flood,No,Yes,Wednesday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,75.29,Low,Rainy,No,No,Sunday,1
+Summer,Khulna,Rice,Miniket Rice,Kg,70.17,Medium,Sunny,No,No,Saturday,0
+Summer,Khulna,Lentil,Imported Lentil,Kg,114.13,Medium,Sunny,No,No,Saturday,0
+Summer,Khulna,Lentil,Local Lentil,Kg,120.26,Medium,Rainy,No,No,Saturday,0
+Winter,Barishal,Rice,BR-28 Rice,Kg,63.51,High,Sunny,No,No,Friday,0
+Monsoon,Khulna,Potato,Local Potato,Kg,27.57,High,Rainy,No,No,Sunday,0
+Summer,Barishal,Edible Oil,Soybean Oil,L,166.94,Medium,Sunny,No,No,Wednesday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,136.8,Medium,Sunny,No,No,Sunday,0
+Summer,Rajshahi,Garlic,Chinese Garlic,Kg,191.02,Medium,Rainy,No,No,Saturday,1
+Winter,Sylhet,Potato,Local Potato,Kg,20.92,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Khulna,Lentil,Local Lentil,Kg,128.84,Medium,Sunny,No,No,Saturday,0
+Winter,Barishal,Onion,Local Onion,Kg,84.9,High,Rainy,Yes,Yes,Friday,0
+Summer,Rajshahi,Garlic,Local Garlic,Kg,154.16,High,Rainy,No,No,Saturday,0
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,68.18,Medium,Rainy,Yes,No,Saturday,0
+Winter,Rajshahi,Rice,BR-28 Rice,Kg,66.83,Low,Sunny,Yes,No,Thursday,0
+Summer,Barishal,Potato,Cold Storage Potato,Kg,30.28,Medium,Rainy,Yes,Yes,Saturday,0
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,92.93,High,Sunny,Yes,No,Monday,0
+Summer,Khulna,Lentil,Imported Lentil,Kg,103.85,High,Sunny,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,60.76,High,Sunny,Yes,No,Monday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,113.77,Medium,Sunny,Yes,No,Monday,0
+Winter,Khulna,Edible Oil,Palm Oil,L,175.93,Medium,Sunny,No,No,Thursday,0
+Winter,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,54.7,Medium,Sunny,Yes,No,Thursday,0
+Winter,Chattogram,Garlic,Local Garlic,Kg,155.0,High,Sunny,Yes,Yes,Sunday,0
+Winter,Chattogram,Onion,Indian Onion,Kg,85.92,High,Sunny,Yes,Yes,Friday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,123.95,High,Sunny,Yes,No,Sunday,0
+Monsoon,Barishal,Garlic,Local Garlic,Kg,165.77,High,Flood,No,No,Saturday,1
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,70.39,Medium,Rainy,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,57.63,High,Sunny,No,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,149.96,High,Sunny,No,No,Tuesday,0
+Summer,Rajshahi,Edible Oil,Soybean Oil,L,159.82,High,Sunny,No,No,Tuesday,0
+Winter,Chattogram,Onion,Indian Onion,Kg,80.37,High,Sunny,Yes,No,Wednesday,0
+Winter,Khulna,Rice,BR-28 Rice,Kg,64.67,Medium,Sunny,Yes,No,Monday,0
+Summer,Chattogram,Rice,Miniket Rice,Kg,74.82,Low,Rainy,Yes,Yes,Monday,1
+Winter,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,136.26,Low,Sunny,No,No,Monday,1
+Monsoon,Khulna,Rice,Najirshail Rice,Kg,61.42,High,Rainy,Yes,No,Sunday,0
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,148.57,High,Rainy,No,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,25.57,Low,Sunny,No,No,Wednesday,1
+Monsoon,Khulna,Potato,Cold Storage Potato,Kg,27.19,Low,Rainy,Yes,Yes,Saturday,1
+Winter,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,119.93,Medium,Sunny,Yes,No,Monday,0
+Monsoon,Chattogram,Onion,Local Onion,Kg,107.22,Medium,Flood,No,No,Friday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,140.0,Medium,Rainy,No,No,Wednesday,1
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,139.75,Low,Sunny,No,No,Friday,1
+Winter,Khulna,Lentil,Imported Lentil,Kg,92.84,High,Sunny,Yes,No,Wednesday,0
+Winter,Sylhet,Potato,Local Potato,Kg,33.8,Medium,Sunny,No,No,Monday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,27.57,High,Sunny,No,No,Thursday,0
+Summer,Khulna,Lentil,Imported Lentil,Kg,107.63,Medium,Sunny,No,No,Thursday,0
+Summer,Sylhet,Lentil,Local Lentil,Kg,101.44,High,Sunny,Yes,No,Sunday,0
+Monsoon,Rajshahi,Rice,Najirshail Rice,Kg,73.41,Low,Rainy,No,No,Friday,1
+Summer,Khulna,Lentil,Imported Lentil,Kg,110.12,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Chattogram,Garlic,Local Garlic,Kg,200.0,Medium,Rainy,No,No,Saturday,1
+Winter,Sylhet,Potato,Cold Storage Potato,Kg,30.76,Medium,Sunny,Yes,No,Wednesday,0
+Winter,Rajshahi,Edible Oil,Soybean Oil,L,161.63,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,200.0,Medium,Rainy,No,Yes,Monday,1
+Monsoon,Chattogram,Onion,Indian Onion,Kg,75.69,High,Sunny,Yes,No,Friday,0
+Winter,Rajshahi,Rice,BR-28 Rice,Kg,56.71,Medium,Sunny,Yes,No,Saturday,0
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,30.6,Medium,Sunny,Yes,Yes,Saturday,0
+Winter,Chattogram,Onion,Indian Onion,Kg,77.16,Medium,Sunny,No,No,Monday,0
+Monsoon,Barishal,Lentil,Local Lentil,Kg,117.68,Medium,Rainy,No,No,Tuesday,0
+Monsoon,Rajshahi,Edible Oil,Palm Oil,L,153.3,Medium,Rainy,Yes,No,Sunday,0
+Winter,Barishal,Lentil,Local Lentil,Kg,118.23,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Khulna,Edible Oil,Soybean Oil,L,168.12,Medium,Rainy,No,No,Wednesday,0
+Winter,Chattogram,Potato,Local Potato,Kg,30.34,Medium,Sunny,No,No,Wednesday,0
+Winter,Barishal,Edible Oil,Soybean Oil,L,180.34,Medium,Rainy,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,40.0,Low,Sunny,No,Yes,Sunday,1
+Winter,Chattogram,Edible Oil,Palm Oil,L,181.56,Low,Sunny,No,No,Monday,1
+Summer,Chattogram,Potato,Local Potato,Kg,25.76,High,Sunny,Yes,No,Thursday,0
+Winter,Rajshahi,Edible Oil,Palm Oil,L,148.6,Medium,Sunny,Yes,Yes,Saturday,0
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,160.33,Medium,Rainy,No,Yes,Thursday,1
+Summer,Sylhet,Onion,Local Onion,Kg,85.91,High,Sunny,Yes,Yes,Sunday,0
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,140.0,Medium,Rainy,No,Yes,Sunday,1
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,140.0,Low,Rainy,No,No,Friday,1
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,140.0,Low,Rainy,No,No,Tuesday,1
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,33.56,High,Sunny,No,No,Wednesday,0
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,139.52,Medium,Rainy,No,No,Saturday,1
+Winter,Khulna,Edible Oil,Soybean Oil,L,183.75,Low,Sunny,No,No,Thursday,1
+Winter,Chattogram,Edible Oil,Soybean Oil,L,198.54,Low,Sunny,No,No,Thursday,1
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,199.36,Low,Rainy,Yes,Yes,Saturday,1
+Monsoon,Barishal,Potato,Cold Storage Potato,Kg,28.31,High,Rainy,No,No,Monday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,30.61,High,Sunny,Yes,No,Sunday,0
+Winter,Sylhet,Rice,Najirshail Rice,Kg,67.6,Low,Rainy,Yes,No,Saturday,1
+Summer,Chattogram,Lentil,Imported Lentil,Kg,140.0,Low,Rainy,No,Yes,Saturday,1
+Winter,Khulna,Potato,Local Potato,Kg,33.95,Medium,Rainy,No,No,Saturday,0
+Monsoon,Rajshahi,Lentil,Local Lentil,Kg,136.05,Medium,Sunny,No,No,Wednesday,0
+Winter,Sylhet,Garlic,Chinese Garlic,Kg,126.83,High,Rainy,Yes,No,Wednesday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,31.19,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,82.36,High,Sunny,No,Yes,Friday,0
+Winter,Khulna,Rice,Najirshail Rice,Kg,80.0,Low,Rainy,Yes,No,Wednesday,1
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,168.13,High,Sunny,No,Yes,Saturday,0
+Monsoon,Barishal,Rice,BR-28 Rice,Kg,72.74,Medium,Flood,Yes,No,Tuesday,0
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,150.03,High,Rainy,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,70.12,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,186.04,Medium,Rainy,No,Yes,Tuesday,1
+Winter,Barishal,Onion,Indian Onion,Kg,64.42,High,Sunny,No,No,Wednesday,0
+Monsoon,Khulna,Edible Oil,Palm Oil,L,171.03,High,Rainy,No,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,128.97,Medium,Sunny,Yes,No,Sunday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,30.5,Medium,Sunny,Yes,No,Tuesday,0
+Summer,Sylhet,Onion,Indian Onion,Kg,80.76,Medium,Sunny,Yes,Yes,Tuesday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,24.67,High,Sunny,No,No,Monday,0
+Monsoon,Chattogram,Lentil,Imported Lentil,Kg,108.99,Medium,Sunny,Yes,Yes,Sunday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,68.34,Medium,Rainy,Yes,No,Monday,0
+Winter,Sylhet,Potato,Local Potato,Kg,40.0,High,Sunny,No,No,Thursday,0
+Monsoon,Khulna,Garlic,Local Garlic,Kg,152.42,Medium,Sunny,No,No,Monday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,179.5,High,Rainy,Yes,No,Sunday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,115.78,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Chattogram,Garlic,Chinese Garlic,Kg,161.11,High,Rainy,No,No,Saturday,0
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,184.44,Low,Sunny,Yes,No,Sunday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,84.02,Medium,Sunny,Yes,No,Tuesday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,71.51,Low,Sunny,Yes,Yes,Wednesday,1
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,128.53,Medium,Sunny,No,No,Thursday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,80.0,Medium,Flood,No,No,Friday,1
+Summer,Rajshahi,Edible Oil,Palm Oil,L,163.74,Medium,Sunny,No,No,Thursday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,35.0,Low,Sunny,No,Yes,Wednesday,1
+Monsoon,Barishal,Potato,Local Potato,Kg,34.0,Medium,Rainy,No,Yes,Wednesday,1
+Summer,Sylhet,Rice,Najirshail Rice,Kg,57.66,Medium,Sunny,Yes,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,145.86,High,Sunny,Yes,Yes,Thursday,0
+Summer,Rajshahi,Rice,Najirshail Rice,Kg,72.81,Medium,Sunny,No,No,Saturday,0
+Summer,Sylhet,Edible Oil,Soybean Oil,L,187.79,High,Rainy,No,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,124.0,High,Sunny,No,Yes,Sunday,0
+Summer,Chattogram,Onion,Indian Onion,Kg,76.21,Low,Sunny,No,No,Thursday,1
+Monsoon,Chattogram,Onion,Indian Onion,Kg,107.94,High,Rainy,No,No,Wednesday,0
+Monsoon,Chattogram,Onion,Local Onion,Kg,85.28,Medium,Rainy,No,Yes,Friday,1
+Monsoon,Barishal,Onion,Indian Onion,Kg,96.9,Medium,Rainy,No,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,79.27,High,Rainy,Yes,Yes,Friday,0
+Winter,Chattogram,Lentil,Local Lentil,Kg,113.88,High,Rainy,No,No,Tuesday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,60.47,High,Sunny,Yes,Yes,Monday,0
+Summer,Chattogram,Edible Oil,Palm Oil,L,156.29,High,Sunny,No,No,Monday,0
+Monsoon,Sylhet,Onion,Local Onion,Kg,81.7,Low,Rainy,Yes,No,Monday,1
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,97.96,Medium,Sunny,Yes,No,Friday,0
+Winter,Chattogram,Garlic,Local Garlic,Kg,152.62,Medium,Sunny,Yes,Yes,Sunday,0
+Summer,Rajshahi,Garlic,Chinese Garlic,Kg,148.13,Medium,Sunny,No,No,Sunday,0
+Winter,Khulna,Rice,BR-28 Rice,Kg,80.0,Medium,Rainy,No,No,Monday,1
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,59.54,Medium,Rainy,Yes,No,Monday,0
+Winter,Rajshahi,Potato,Local Potato,Kg,24.42,High,Sunny,No,No,Monday,0
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,107.98,High,Sunny,Yes,No,Wednesday,0
+Summer,Khulna,Rice,Miniket Rice,Kg,66.07,Medium,Sunny,No,No,Monday,0
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,167.58,Medium,Sunny,No,No,Sunday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,109.78,Medium,Rainy,No,No,Monday,1
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,144.0,Low,Rainy,No,No,Monday,1
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,190.95,Medium,Rainy,No,Yes,Sunday,1
+Monsoon,Barishal,Rice,Miniket Rice,Kg,78.32,Low,Rainy,Yes,Yes,Friday,1
+Winter,Chattogram,Onion,Indian Onion,Kg,75.38,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,113.98,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,34.51,High,Rainy,No,No,Friday,0
+Winter,Chattogram,Garlic,Local Garlic,Kg,163.89,Low,Sunny,No,No,Sunday,1
+Summer,Khulna,Lentil,Imported Lentil,Kg,139.68,High,Rainy,No,No,Sunday,1
+Summer,Rajshahi,Potato,Local Potato,Kg,35.76,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,93.24,Low,Rainy,Yes,No,Saturday,1
+Winter,Chattogram,Lentil,Imported Lentil,Kg,132.15,Low,Rainy,Yes,No,Tuesday,1
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,69.94,High,Sunny,Yes,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,178.17,Low,Flood,No,No,Saturday,1
+Summer,Khulna,Potato,Cold Storage Potato,Kg,30.35,High,Flood,Yes,No,Monday,0
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,163.9,Medium,Sunny,No,No,Thursday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,129.77,Medium,Sunny,No,No,Saturday,0
+Summer,Rajshahi,Rice,Najirshail Rice,Kg,66.74,Medium,Sunny,Yes,No,Tuesday,0
+Winter,Sylhet,Edible Oil,Palm Oil,L,140.42,High,Rainy,Yes,No,Tuesday,0
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,186.86,Medium,Rainy,No,No,Wednesday,1
+Summer,Sylhet,Lentil,Local Lentil,Kg,122.96,Low,Rainy,No,No,Wednesday,1
+Summer,Chattogram,Lentil,Imported Lentil,Kg,134.08,Low,Sunny,No,Yes,Sunday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,101.18,Medium,Rainy,No,No,Friday,0
+Monsoon,Rajshahi,Onion,Local Onion,Kg,70.33,High,Rainy,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,118.61,Medium,Rainy,No,No,Wednesday,0
+Monsoon,Khulna,Potato,Cold Storage Potato,Kg,40.0,Medium,Flood,No,Yes,Tuesday,1
+Winter,Chattogram,Edible Oil,Soybean Oil,L,156.14,High,Sunny,No,No,Friday,0
+Winter,Sylhet,Rice,BR-28 Rice,Kg,68.39,Medium,Sunny,Yes,No,Friday,0
+Summer,Chattogram,Garlic,Local Garlic,Kg,155.35,Medium,Rainy,Yes,No,Thursday,0
+Summer,Barishal,Rice,Miniket Rice,Kg,62.49,Medium,Rainy,Yes,Yes,Sunday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,34.27,Low,Rainy,No,No,Saturday,1
+Summer,Rajshahi,Edible Oil,Palm Oil,L,197.36,Medium,Rainy,No,No,Friday,1
+Winter,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,74.07,Medium,Sunny,No,No,Thursday,0
+Winter,Chattogram,Potato,Local Potato,Kg,27.27,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Barishal,Lentil,Local Lentil,Kg,109.22,Medium,Rainy,Yes,No,Monday,0
+Winter,Sylhet,Edible Oil,Soybean Oil,L,163.67,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,176.56,Low,Sunny,No,No,Tuesday,1
+Summer,Barishal,Garlic,Chinese Garlic,Kg,148.1,Medium,Sunny,No,No,Sunday,0
+Summer,Chattogram,Edible Oil,Palm Oil,L,141.57,High,Sunny,No,No,Friday,0
+Summer,Chattogram,Lentil,Local Lentil,Kg,116.29,Medium,Sunny,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,140.0,Medium,Flood,No,No,Saturday,1
+Winter,Sylhet,Rice,Miniket Rice,Kg,74.39,Medium,Rainy,No,No,Tuesday,0
+Winter,Rajshahi,Onion,Indian Onion,Kg,96.29,Low,Sunny,Yes,No,Wednesday,0
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,136.25,Low,Rainy,No,No,Sunday,1
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,40.0,Low,Rainy,No,Yes,Wednesday,1
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,72.79,Medium,Sunny,No,No,Sunday,0
+Monsoon,Sylhet,Edible Oil,Palm Oil,L,197.52,Low,Rainy,No,No,Thursday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,136.04,High,Sunny,Yes,Yes,Monday,0
+Summer,Khulna,Rice,Miniket Rice,Kg,64.9,High,Rainy,Yes,No,Tuesday,0
+Winter,Khulna,Garlic,Chinese Garlic,Kg,142.41,Low,Sunny,Yes,No,Friday,0
+Summer,Chattogram,Rice,Miniket Rice,Kg,74.17,Medium,Rainy,Yes,No,Friday,0
+Winter,Sylhet,Edible Oil,Palm Oil,L,160.29,Medium,Sunny,Yes,Yes,Thursday,0
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,200.0,Low,Rainy,No,No,Tuesday,1
+Summer,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,171.56,Medium,Sunny,No,No,Saturday,0
+Summer,Khulna,Lentil,Local Lentil,Kg,102.36,High,Sunny,Yes,No,Wednesday,0
+Summer,Barishal,Rice,Miniket Rice,Kg,64.91,Medium,Rainy,Yes,No,Wednesday,0
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,80.0,Low,Flood,No,No,Monday,1
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,147.47,Low,Sunny,No,No,Thursday,1
+Winter,Barishal,Rice,BR-28 Rice,Kg,69.39,High,Sunny,No,No,Wednesday,0
+Monsoon,Chattogram,Onion,Local Onion,Kg,101.65,Medium,Rainy,No,Yes,Friday,1
+Summer,Khulna,Onion,Indian Onion,Kg,100.66,High,Rainy,No,No,Thursday,0
+Monsoon,Chattogram,Lentil,Imported Lentil,Kg,126.05,Medium,Sunny,No,No,Tuesday,0
+Winter,Khulna,Potato,Cold Storage Potato,Kg,20.0,High,Rainy,Yes,No,Saturday,0
+Summer,Barishal,Lentil,Imported Lentil,Kg,99.03,Medium,Rainy,Yes,No,Saturday,0
+Summer,Rajshahi,Edible Oil,Palm Oil,L,138.37,High,Sunny,Yes,No,Thursday,0
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,134.63,Medium,Sunny,Yes,No,Wednesday,0
+Winter,Sylhet,Edible Oil,Palm Oil,L,191.77,Medium,Rainy,No,No,Tuesday,1
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,30.99,Low,Rainy,Yes,No,Tuesday,1
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,200.0,Medium,Rainy,No,Yes,Friday,1
+Monsoon,Sylhet,Potato,Cold Storage Potato,Kg,25.05,High,Sunny,Yes,No,Monday,0
+Monsoon,Barishal,Lentil,Imported Lentil,Kg,100.05,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Khulna,Rice,BR-28 Rice,Kg,67.46,High,Sunny,No,Yes,Saturday,0
+Monsoon,Barishal,Lentil,Imported Lentil,Kg,121.63,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,188.16,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Khulna,Onion,Local Onion,Kg,98.19,Low,Flood,No,Yes,Wednesday,1
+Summer,Chattogram,Rice,Najirshail Rice,Kg,65.41,Low,Sunny,Yes,No,Friday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,88.26,Medium,Flood,Yes,No,Monday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,66.82,Medium,Rainy,No,No,Wednesday,0
+Winter,Chattogram,Edible Oil,Palm Oil,L,192.49,Low,Rainy,No,No,Saturday,1
+Winter,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,76.55,Low,Sunny,Yes,No,Thursday,0
+Monsoon,Chattogram,Onion,Local Onion,Kg,102.08,Medium,Rainy,No,Yes,Wednesday,1
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,33.44,High,Sunny,No,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,125.3,High,Rainy,No,No,Wednesday,0
+Monsoon,Khulna,Edible Oil,Palm Oil,L,200.0,Low,Rainy,No,No,Saturday,1
+Monsoon,Chattogram,Onion,Local Onion,Kg,115.23,Medium,Rainy,No,No,Saturday,1
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,80.0,Medium,Rainy,No,No,Monday,1
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,51.25,Medium,Sunny,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,40.0,Low,Sunny,Yes,No,Tuesday,1
+Summer,Barishal,Edible Oil,Soybean Oil,L,173.58,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Khulna,Potato,Local Potato,Kg,36.86,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Sylhet,Garlic,Chinese Garlic,Kg,158.86,Medium,Sunny,No,No,Thursday,0
+Summer,Khulna,Garlic,Local Garlic,Kg,137.28,Low,Rainy,Yes,No,Friday,1
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,176.94,Low,Rainy,Yes,Yes,Friday,1
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,170.69,Medium,Flood,Yes,Yes,Monday,1
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,35.58,Medium,Sunny,No,No,Tuesday,0
+Winter,Chattogram,Onion,Local Onion,Kg,66.92,Low,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,80.0,Low,Flood,No,No,Tuesday,1
+Monsoon,Barishal,Garlic,Chinese Garlic,Kg,178.69,Medium,Sunny,No,Yes,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,64.99,Low,Rainy,No,No,Wednesday,1
+Winter,Rajshahi,Onion,Indian Onion,Kg,64.61,Medium,Sunny,Yes,No,Sunday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,129.31,Low,Sunny,No,No,Sunday,1
+Summer,Chattogram,Lentil,Local Lentil,Kg,129.05,Medium,Rainy,No,Yes,Sunday,1
+Summer,Barishal,Edible Oil,Palm Oil,L,172.87,High,Rainy,No,No,Monday,0
+Winter,Rajshahi,Lentil,Local Lentil,Kg,113.31,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Chattogram,Garlic,Local Garlic,Kg,159.95,Medium,Flood,Yes,No,Sunday,0
+Summer,Chattogram,Rice,Miniket Rice,Kg,63.29,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,108.7,High,Sunny,Yes,No,Saturday,0
+Monsoon,Rajshahi,Potato,Local Potato,Kg,38.54,Low,Rainy,No,No,Monday,1
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,130.27,Medium,Flood,No,No,Friday,1
+Winter,Rajshahi,Potato,Local Potato,Kg,27.62,Medium,Rainy,Yes,No,Friday,0
+Winter,Chattogram,Rice,Miniket Rice,Kg,66.94,High,Rainy,Yes,No,Friday,0
+Summer,Chattogram,Rice,Miniket Rice,Kg,63.75,High,Sunny,Yes,No,Thursday,0
+Monsoon,Khulna,Rice,BR-28 Rice,Kg,77.67,Low,Rainy,No,No,Saturday,1
+Winter,Chattogram,Rice,Miniket Rice,Kg,67.95,High,Sunny,No,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,151.52,High,Rainy,No,No,Sunday,0
+Winter,Khulna,Onion,Local Onion,Kg,71.82,Low,Sunny,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,131.8,Medium,Rainy,No,No,Saturday,0
+Winter,Rajshahi,Lentil,Imported Lentil,Kg,129.69,Medium,Sunny,No,No,Monday,0
+Summer,Khulna,Potato,Local Potato,Kg,31.25,Medium,Rainy,Yes,No,Friday,0
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,72.44,Low,Sunny,No,No,Saturday,1
+Summer,Chattogram,Onion,Local Onion,Kg,95.23,Medium,Sunny,Yes,Yes,Wednesday,0
+Winter,Chattogram,Lentil,Imported Lentil,Kg,119.16,Medium,Sunny,No,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,142.02,High,Sunny,Yes,No,Friday,0
+Summer,Barishal,Edible Oil,Palm Oil,L,184.44,Medium,Sunny,No,No,Sunday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,80.0,Medium,Sunny,No,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,80.0,Low,Flood,No,Yes,Tuesday,1
+Summer,Khulna,Rice,Najirshail Rice,Kg,72.15,Medium,Rainy,Yes,Yes,Tuesday,0
+Winter,Rajshahi,Edible Oil,Palm Oil,L,155.09,Medium,Sunny,Yes,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,103.13,Medium,Rainy,No,No,Saturday,0
+Monsoon,Chattogram,Garlic,Chinese Garlic,Kg,174.51,Medium,Sunny,No,Yes,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,141.81,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,191.29,Low,Rainy,No,No,Friday,1
+Summer,Khulna,Garlic,Chinese Garlic,Kg,174.15,Low,Sunny,No,Yes,Monday,1
+Winter,Khulna,Onion,Indian Onion,Kg,88.87,High,Sunny,Yes,No,Thursday,0
+Summer,Rajshahi,Onion,Local Onion,Kg,80.63,Medium,Rainy,Yes,Yes,Monday,0
+Summer,Khulna,Onion,Indian Onion,Kg,88.85,Low,Sunny,Yes,No,Wednesday,0
+Winter,Chattogram,Potato,Local Potato,Kg,29.32,High,Sunny,Yes,No,Tuesday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,56.9,High,Rainy,Yes,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,200.0,Medium,Flood,No,No,Thursday,1
+Winter,Khulna,Onion,Local Onion,Kg,77.02,High,Rainy,No,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,135.46,Low,Rainy,Yes,Yes,Friday,1
+Monsoon,Chattogram,Garlic,Local Garlic,Kg,167.73,Medium,Rainy,Yes,No,Tuesday,0
+Summer,Rajshahi,Rice,BR-28 Rice,Kg,60.78,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,24.92,Medium,Sunny,Yes,Yes,Thursday,0
+Winter,Sylhet,Potato,Cold Storage Potato,Kg,23.64,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,117.0,Medium,Rainy,No,Yes,Saturday,1
+Winter,Khulna,Rice,BR-28 Rice,Kg,78.0,Medium,Rainy,No,No,Thursday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,183.12,High,Sunny,No,Yes,Wednesday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,62.11,Medium,Rainy,No,No,Thursday,0
+Winter,Khulna,Lentil,Imported Lentil,Kg,110.33,Medium,Rainy,Yes,Yes,Tuesday,0
+Monsoon,Khulna,Rice,BR-28 Rice,Kg,77.35,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Barishal,Potato,Local Potato,Kg,34.47,Medium,Rainy,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,200.0,Medium,Rainy,No,No,Thursday,1
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,75.08,High,Sunny,No,No,Saturday,0
+Winter,Sylhet,Edible Oil,Soybean Oil,L,200.0,Low,Rainy,No,No,Saturday,1
+Monsoon,Rajshahi,Garlic,Chinese Garlic,Kg,180.9,Low,Rainy,No,No,Sunday,1
+Summer,Sylhet,Onion,Local Onion,Kg,103.56,Medium,Rainy,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,70.96,Medium,Rainy,Yes,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,132.3,Medium,Rainy,No,No,Thursday,0
+Summer,Chattogram,Onion,Indian Onion,Kg,94.99,Low,Rainy,No,No,Sunday,1
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,157.05,High,Rainy,No,No,Thursday,0
+Winter,Khulna,Onion,Indian Onion,Kg,68.79,Medium,Sunny,Yes,No,Saturday,0
+Winter,Sylhet,Potato,Local Potato,Kg,31.04,High,Sunny,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,55.32,Medium,Rainy,Yes,No,Tuesday,0
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,180.84,Medium,Rainy,No,No,Friday,0
+Monsoon,Barishal,Onion,Local Onion,Kg,75.24,Medium,Rainy,Yes,No,Friday,0
+Summer,Barishal,Potato,Cold Storage Potato,Kg,40.0,Low,Sunny,No,Yes,Monday,1
+Summer,Khulna,Lentil,Imported Lentil,Kg,140.0,Medium,Flood,No,No,Tuesday,1
+Winter,Rajshahi,Potato,Local Potato,Kg,26.63,Medium,Sunny,Yes,No,Sunday,0
+Summer,Rajshahi,Edible Oil,Palm Oil,L,135.2,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Sylhet,Rice,BR-28 Rice,Kg,72.58,Medium,Rainy,No,Yes,Thursday,1
+Monsoon,Barishal,Garlic,Local Garlic,Kg,168.74,Low,Flood,No,No,Friday,1
+Monsoon,Chattogram,Edible Oil,Palm Oil,L,154.86,Medium,Sunny,No,No,Monday,0
+Summer,Rajshahi,Garlic,Chinese Garlic,Kg,178.61,Low,Rainy,No,No,Monday,1
+Summer,Rajshahi,Edible Oil,Palm Oil,L,147.24,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Barishal,Potato,Cold Storage Potato,Kg,33.41,Medium,Rainy,No,No,Thursday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,29.31,Medium,Rainy,Yes,No,Sunday,0
+Winter,Rajshahi,Onion,Local Onion,Kg,70.44,Medium,Sunny,Yes,Yes,Friday,0
+Winter,Chattogram,Lentil,Imported Lentil,Kg,111.43,Medium,Sunny,No,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,180.04,Medium,Sunny,No,No,Saturday,0
+Summer,Barishal,Onion,Indian Onion,Kg,62.23,Medium,Rainy,Yes,No,Thursday,0
+Winter,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,66.15,Low,Sunny,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,100.11,High,Sunny,No,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,190.53,Medium,Flood,Yes,No,Monday,1
+Winter,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,189.06,Medium,Sunny,No,Yes,Friday,1
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,69.07,Low,Sunny,Yes,No,Saturday,0
+Winter,Khulna,Potato,Cold Storage Potato,Kg,32.05,Medium,Sunny,No,Yes,Thursday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,33.22,Medium,Rainy,No,No,Sunday,0
+Monsoon,Khulna,Onion,Local Onion,Kg,70.67,Medium,Rainy,Yes,No,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,76.99,Medium,Sunny,Yes,No,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,104.15,High,Sunny,Yes,No,Monday,0
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,104.82,Low,Sunny,No,No,Sunday,1
+Monsoon,Barishal,Potato,Cold Storage Potato,Kg,29.61,Medium,Rainy,No,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,69.05,Medium,Rainy,Yes,No,Thursday,0
+Winter,Sylhet,Lentil,Local Lentil,Kg,119.96,Medium,Sunny,No,No,Monday,0
+Monsoon,Sylhet,Onion,Local Onion,Kg,60.62,Low,Sunny,No,No,Tuesday,1
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,131.97,Medium,Sunny,No,No,Saturday,0
+Winter,Chattogram,Rice,Miniket Rice,Kg,67.03,Medium,Rainy,Yes,No,Friday,0
+Winter,Khulna,Garlic,Chinese Garlic,Kg,113.59,High,Sunny,Yes,No,Saturday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,95.11,Medium,Sunny,No,No,Saturday,0
+Summer,Barishal,Garlic,Chinese Garlic,Kg,144.55,High,Rainy,No,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,29.77,High,Sunny,No,No,Wednesday,0
+Summer,Sylhet,Potato,Cold Storage Potato,Kg,29.37,Medium,Sunny,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,31.12,Medium,Rainy,No,No,Friday,0
+Summer,Barishal,Onion,Local Onion,Kg,120.0,Low,Rainy,No,No,Sunday,1
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,74.26,Low,Rainy,No,No,Saturday,1
+Winter,Chattogram,Rice,BR-28 Rice,Kg,67.08,Medium,Sunny,No,No,Monday,0
+Winter,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,115.02,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,67.38,Medium,Rainy,No,No,Sunday,0
+Monsoon,Chattogram,Lentil,Imported Lentil,Kg,131.5,Low,Rainy,No,No,Friday,1
+Winter,Khulna,Onion,Indian Onion,Kg,65.74,Medium,Sunny,Yes,No,Sunday,0
+Winter,Khulna,Lentil,Local Lentil,Kg,105.87,Medium,Rainy,No,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,69.65,Medium,Sunny,Yes,Yes,Monday,0
+Monsoon,Khulna,Potato,Cold Storage Potato,Kg,28.67,Medium,Rainy,No,No,Sunday,0
+Winter,Sylhet,Rice,Najirshail Rice,Kg,66.55,High,Sunny,Yes,Yes,Saturday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,30.87,Medium,Rainy,No,No,Monday,0
+Monsoon,Khulna,Rice,BR-28 Rice,Kg,80.0,Low,Rainy,Yes,Yes,Thursday,1
+Summer,Sylhet,Garlic,Local Garlic,Kg,118.43,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,133.61,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Rajshahi,Garlic,Chinese Garlic,Kg,165.59,Medium,Sunny,No,No,Saturday,0
+Monsoon,Rajshahi,Garlic,Local Garlic,Kg,154.54,Medium,Rainy,Yes,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,153.11,Medium,Sunny,No,No,Sunday,0
+Monsoon,Chattogram,Lentil,Imported Lentil,Kg,135.55,Medium,Flood,Yes,Yes,Friday,1
+Winter,Rajshahi,Garlic,Local Garlic,Kg,152.09,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,76.46,Low,Flood,Yes,No,Wednesday,1
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,177.52,Low,Rainy,No,No,Thursday,1
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,28.03,High,Sunny,Yes,No,Monday,0
+Winter,Rajshahi,Potato,Cold Storage Potato,Kg,31.73,High,Sunny,Yes,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,151.19,Medium,Sunny,Yes,No,Sunday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,54.56,Low,Sunny,Yes,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,112.07,Low,Flood,No,Yes,Thursday,1
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,87.9,High,Rainy,Yes,Yes,Friday,0
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,80.0,Medium,Rainy,No,Yes,Sunday,1
+Winter,Rajshahi,Edible Oil,Palm Oil,L,167.66,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,180.41,Low,Sunny,No,No,Monday,1
+Summer,Barishal,Edible Oil,Palm Oil,L,146.5,Medium,Rainy,No,No,Monday,0
+Summer,Khulna,Onion,Indian Onion,Kg,111.59,High,Sunny,No,Yes,Wednesday,1
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,66.27,Medium,Sunny,Yes,No,Sunday,0
+Winter,Rajshahi,Rice,Najirshail Rice,Kg,73.38,Low,Sunny,Yes,No,Saturday,0
+Winter,Chattogram,Lentil,Local Lentil,Kg,114.57,Medium,Rainy,Yes,No,Sunday,0
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,73.78,Low,Flood,Yes,No,Sunday,1
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,70.98,Medium,Rainy,Yes,Yes,Monday,0
+Summer,Chattogram,Potato,Local Potato,Kg,25.21,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Barishal,Lentil,Local Lentil,Kg,111.48,High,Sunny,Yes,Yes,Monday,0
+Monsoon,Sylhet,Potato,Local Potato,Kg,31.32,Low,Rainy,No,No,Wednesday,1
+Summer,Khulna,Potato,Cold Storage Potato,Kg,31.34,High,Sunny,No,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,28.72,Medium,Rainy,Yes,No,Sunday,0
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,67.03,Medium,Sunny,Yes,Yes,Saturday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,141.58,Medium,Rainy,Yes,No,Saturday,0
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,33.8,Medium,Flood,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,140.0,Low,Rainy,No,No,Monday,1
+Monsoon,Sylhet,Potato,Local Potato,Kg,30.89,Medium,Flood,No,No,Sunday,1
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,70.87,High,Sunny,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,80.0,Medium,Flood,No,Yes,Saturday,1
+Summer,Chattogram,Onion,Indian Onion,Kg,88.49,Medium,Sunny,No,No,Monday,0
+Winter,Barishal,Rice,Miniket Rice,Kg,59.14,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Chattogram,Lentil,Imported Lentil,Kg,140.0,Low,Rainy,No,Yes,Saturday,1
+Monsoon,Barishal,Onion,Local Onion,Kg,111.05,Low,Flood,No,Yes,Thursday,1
+Monsoon,Sylhet,Garlic,Local Garlic,Kg,192.49,Medium,Rainy,No,No,Saturday,1
+Summer,Rajshahi,Onion,Indian Onion,Kg,78.83,Medium,Rainy,Yes,Yes,Wednesday,0
+Summer,Khulna,Onion,Indian Onion,Kg,62.8,Low,Rainy,Yes,No,Wednesday,1
+Winter,Chattogram,Onion,Local Onion,Kg,88.9,Medium,Sunny,Yes,Yes,Thursday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,71.79,Low,Sunny,Yes,No,Thursday,0
+Summer,Chattogram,Onion,Local Onion,Kg,83.4,Medium,Sunny,Yes,Yes,Monday,0
+Summer,Sylhet,Potato,Cold Storage Potato,Kg,26.36,High,Sunny,Yes,No,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,65.49,High,Rainy,Yes,No,Sunday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,173.06,Medium,Flood,No,No,Wednesday,1
+Monsoon,Rajshahi,Onion,Local Onion,Kg,112.84,Low,Rainy,No,Yes,Monday,1
+Winter,Rajshahi,Edible Oil,Soybean Oil,L,158.44,Medium,Sunny,No,No,Sunday,0
+Summer,Sylhet,Edible Oil,Palm Oil,L,160.58,High,Sunny,No,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,178.49,Medium,Sunny,No,Yes,Sunday,0
+Monsoon,Chattogram,Garlic,Chinese Garlic,Kg,179.26,Low,Rainy,No,Yes,Thursday,1
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,65.33,Medium,Rainy,Yes,Yes,Thursday,0
+Monsoon,Rajshahi,Garlic,Chinese Garlic,Kg,118.97,Medium,Rainy,Yes,No,Wednesday,0
+Summer,Chattogram,Edible Oil,Palm Oil,L,135.23,High,Sunny,Yes,No,Friday,0
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,152.74,High,Rainy,Yes,Yes,Tuesday,0
+Summer,Khulna,Edible Oil,Palm Oil,L,141.33,High,Sunny,No,No,Thursday,0
+Summer,Khulna,Garlic,Local Garlic,Kg,143.86,Low,Sunny,No,No,Wednesday,1
+Winter,Barishal,Rice,Miniket Rice,Kg,61.32,Medium,Sunny,No,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,61.21,High,Sunny,No,No,Sunday,0
+Winter,Khulna,Edible Oil,Palm Oil,L,175.97,Medium,Rainy,No,No,Tuesday,0
+Monsoon,Chattogram,Potato,Local Potato,Kg,31.27,Medium,Sunny,No,No,Thursday,0
+Monsoon,Khulna,Rice,Miniket Rice,Kg,69.49,Medium,Rainy,Yes,No,Sunday,0
+Summer,Sylhet,Lentil,Local Lentil,Kg,135.44,Medium,Rainy,No,Yes,Saturday,1
+Summer,Chattogram,Rice,BR-28 Rice,Kg,64.96,Medium,Rainy,Yes,No,Tuesday,0
+Winter,Rajshahi,Onion,Local Onion,Kg,92.28,Medium,Sunny,No,No,Monday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,140.0,Low,Sunny,No,Yes,Wednesday,1
+Winter,Chattogram,Potato,Local Potato,Kg,32.25,Low,Rainy,Yes,No,Monday,1
+Monsoon,Barishal,Lentil,Local Lentil,Kg,111.55,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,76.41,Medium,Flood,Yes,Yes,Wednesday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,160.77,Medium,Rainy,Yes,No,Wednesday,0
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,32.22,Medium,Sunny,No,No,Thursday,0
+Monsoon,Rajshahi,Potato,Local Potato,Kg,36.82,Low,Flood,No,Yes,Saturday,1
+Monsoon,Chattogram,Garlic,Chinese Garlic,Kg,147.92,High,Sunny,Yes,Yes,Sunday,0
+Winter,Chattogram,Garlic,Chinese Garlic,Kg,162.65,Medium,Sunny,No,No,Monday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,30.54,High,Rainy,Yes,No,Saturday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,56.33,High,Rainy,Yes,No,Sunday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,80.0,Low,Sunny,No,No,Monday,1
+Summer,Rajshahi,Garlic,Chinese Garlic,Kg,195.74,Low,Rainy,No,No,Monday,1
+Winter,Rajshahi,Edible Oil,Soybean Oil,L,157.37,Medium,Sunny,No,No,Tuesday,0
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,124.98,Medium,Rainy,No,No,Sunday,0
+Monsoon,Khulna,Edible Oil,Palm Oil,L,184.44,Low,Rainy,No,No,Sunday,1
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,164.89,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Rajshahi,Rice,Najirshail Rice,Kg,61.34,Medium,Rainy,Yes,No,Wednesday,0
+Summer,Chattogram,Edible Oil,Soybean Oil,L,178.08,High,Sunny,No,No,Saturday,0
+Winter,Chattogram,Rice,Najirshail Rice,Kg,59.25,High,Rainy,Yes,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,35.32,Low,Sunny,Yes,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,37.38,Low,Rainy,No,Yes,Thursday,1
+Winter,Sylhet,Edible Oil,Palm Oil,L,174.29,Medium,Sunny,No,No,Saturday,0
+Winter,Khulna,Rice,Miniket Rice,Kg,67.23,Medium,Rainy,No,No,Saturday,0
+Monsoon,Barishal,Lentil,Imported Lentil,Kg,140.0,Low,Rainy,No,Yes,Saturday,1
+Winter,Sylhet,Potato,Cold Storage Potato,Kg,36.35,Low,Rainy,No,No,Wednesday,1
+Winter,Sylhet,Garlic,Local Garlic,Kg,147.01,Medium,Rainy,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,100.14,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Barishal,Garlic,Chinese Garlic,Kg,183.38,Medium,Rainy,No,No,Tuesday,0
+Summer,Khulna,Lentil,Imported Lentil,Kg,118.46,Medium,Sunny,Yes,Yes,Wednesday,0
+Monsoon,Sylhet,Edible Oil,Soybean Oil,L,160.18,High,Sunny,Yes,Yes,Saturday,0
+Monsoon,Sylhet,Rice,BR-28 Rice,Kg,80.0,Low,Rainy,No,No,Tuesday,1
+Summer,Chattogram,Potato,Local Potato,Kg,28.46,Medium,Rainy,Yes,No,Friday,0
+Winter,Rajshahi,Potato,Local Potato,Kg,29.22,High,Rainy,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,46.18,Low,Sunny,Yes,Yes,Wednesday,1
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,182.64,Medium,Rainy,No,No,Wednesday,0
+Summer,Chattogram,Rice,BR-28 Rice,Kg,56.24,High,Sunny,Yes,No,Saturday,0
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,57.4,Medium,Rainy,Yes,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,27.57,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Sylhet,Potato,Local Potato,Kg,32.11,Medium,Rainy,Yes,No,Tuesday,0
+Winter,Rajshahi,Rice,Najirshail Rice,Kg,62.96,High,Sunny,Yes,No,Friday,0
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,70.55,Medium,Flood,Yes,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,24.85,High,Rainy,Yes,No,Monday,0
+Summer,Rajshahi,Rice,Najirshail Rice,Kg,62.12,High,Rainy,Yes,No,Thursday,0
+Winter,Barishal,Rice,Najirshail Rice,Kg,66.17,Medium,Sunny,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,97.99,Low,Flood,Yes,No,Wednesday,1
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,33.92,Medium,Sunny,No,Yes,Tuesday,0
+Winter,Chattogram,Edible Oil,Soybean Oil,L,168.15,Medium,Sunny,No,No,Thursday,0
+Monsoon,Chattogram,Onion,Local Onion,Kg,71.62,High,Sunny,Yes,Yes,Wednesday,0
+Monsoon,Sylhet,Garlic,Chinese Garlic,Kg,137.86,Medium,Sunny,No,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,137.29,Low,Rainy,No,No,Thursday,1
+Winter,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,183.98,Medium,Sunny,No,No,Thursday,0
+Winter,Chattogram,Lentil,Local Lentil,Kg,116.32,Low,Sunny,Yes,No,Tuesday,0
+Summer,Barishal,Rice,BR-28 Rice,Kg,76.49,Medium,Rainy,Yes,No,Wednesday,0
+Monsoon,Khulna,Onion,Local Onion,Kg,114.36,Low,Flood,No,No,Friday,1
+Winter,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,62.75,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Khulna,Edible Oil,Soybean Oil,L,183.83,Medium,Rainy,No,No,Wednesday,0
+Monsoon,Sylhet,Potato,Local Potato,Kg,29.74,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Barishal,Lentil,Imported Lentil,Kg,105.6,Medium,Rainy,Yes,No,Thursday,0
+Winter,Rajshahi,Garlic,Local Garlic,Kg,183.6,Low,Rainy,No,No,Tuesday,1
+Summer,Sylhet,Edible Oil,Palm Oil,L,161.48,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,106.08,Medium,Rainy,No,No,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,128.45,Medium,Rainy,Yes,No,Wednesday,0
+Monsoon,Chattogram,Lentil,Imported Lentil,Kg,140.0,Medium,Rainy,No,Yes,Friday,1
+Summer,Chattogram,Rice,Najirshail Rice,Kg,67.76,Low,Sunny,No,No,Tuesday,1
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,143.95,High,Sunny,No,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,72.6,Medium,Rainy,No,Yes,Sunday,1
+Summer,Rajshahi,Rice,Miniket Rice,Kg,64.43,Low,Sunny,Yes,No,Thursday,0
+Summer,Khulna,Garlic,Local Garlic,Kg,152.24,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Sylhet,Rice,Miniket Rice,Kg,72.02,Medium,Rainy,No,No,Friday,0
+Winter,Rajshahi,Edible Oil,Soybean Oil,L,162.58,High,Sunny,No,No,Sunday,0
+Summer,Khulna,Potato,Local Potato,Kg,26.99,Medium,Sunny,Yes,No,Monday,0
+Monsoon,Barishal,Garlic,Local Garlic,Kg,155.1,Medium,Rainy,No,No,Tuesday,0
+Summer,Sylhet,Garlic,Local Garlic,Kg,147.86,Medium,Sunny,Yes,No,Sunday,0
+Winter,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,91.44,Medium,Sunny,No,No,Saturday,0
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,99.34,Medium,Rainy,No,Yes,Monday,1
+Summer,Sylhet,Potato,Cold Storage Potato,Kg,31.34,Low,Rainy,Yes,No,Saturday,1
+Summer,Sylhet,Edible Oil,Soybean Oil,L,125.9,High,Sunny,Yes,No,Friday,0
+Winter,Rajshahi,Edible Oil,Soybean Oil,L,200.0,Low,Rainy,No,No,Friday,1
+Summer,Rajshahi,Onion,Local Onion,Kg,68.92,Medium,Rainy,Yes,No,Sunday,0
+Summer,Rajshahi,Potato,Cold Storage Potato,Kg,34.03,Medium,Rainy,Yes,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,152.8,High,Sunny,No,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,138.04,Medium,Rainy,Yes,No,Thursday,0
+Summer,Khulna,Lentil,Local Lentil,Kg,118.63,Medium,Sunny,No,No,Sunday,0
+Monsoon,Chattogram,Onion,Local Onion,Kg,91.77,Medium,Rainy,No,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,58.44,Medium,Rainy,Yes,No,Thursday,0
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,26.33,High,Sunny,Yes,No,Monday,0
+Monsoon,Sylhet,Lentil,Local Lentil,Kg,121.44,High,Sunny,No,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,148.87,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Barishal,Potato,Local Potato,Kg,31.76,Low,Rainy,Yes,No,Friday,1
+Winter,Barishal,Rice,Miniket Rice,Kg,68.05,Medium,Rainy,No,No,Wednesday,0
+Winter,Chattogram,Lentil,Local Lentil,Kg,127.55,Low,Sunny,No,No,Wednesday,1
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,35.08,Medium,Sunny,No,Yes,Saturday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,80.0,Low,Rainy,No,Yes,Tuesday,1
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,34.01,High,Sunny,Yes,No,Wednesday,0
+Winter,Khulna,Onion,Indian Onion,Kg,87.34,High,Sunny,No,No,Monday,0
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,140.0,Medium,Rainy,No,Yes,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,104.9,High,Sunny,No,No,Saturday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,33.03,Medium,Rainy,No,No,Tuesday,0
+Summer,Chattogram,Garlic,Local Garlic,Kg,137.74,High,Sunny,Yes,Yes,Friday,0
+Winter,Khulna,Potato,Local Potato,Kg,36.75,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,24.08,Low,Rainy,Yes,Yes,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,82.05,Medium,Rainy,Yes,Yes,Friday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,109.47,Medium,Rainy,No,No,Sunday,0
+Monsoon,Barishal,Rice,Najirshail Rice,Kg,65.66,Medium,Rainy,Yes,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,56.52,Medium,Sunny,Yes,No,Friday,0
+Winter,Rajshahi,Rice,Miniket Rice,Kg,67.31,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Khulna,Potato,Local Potato,Kg,31.93,Low,Rainy,Yes,No,Saturday,1
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,34.01,Low,Rainy,No,Yes,Wednesday,1
+Summer,Chattogram,Lentil,Local Lentil,Kg,102.33,Medium,Rainy,Yes,No,Tuesday,0
+Monsoon,Barishal,Lentil,Imported Lentil,Kg,116.8,High,Rainy,No,No,Thursday,0
+Summer,Khulna,Lentil,Local Lentil,Kg,140.0,Medium,Sunny,No,Yes,Tuesday,1
+Winter,Rajshahi,Onion,Local Onion,Kg,76.31,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,156.96,High,Sunny,No,No,Tuesday,0
+Summer,Khulna,Edible Oil,Soybean Oil,L,140.03,High,Sunny,Yes,No,Monday,0
+Summer,Barishal,Edible Oil,Soybean Oil,L,183.23,Medium,Rainy,No,Yes,Sunday,1
+Summer,Barishal,Onion,Local Onion,Kg,106.27,Medium,Rainy,Yes,No,Wednesday,0
+Monsoon,Sylhet,Rice,Najirshail Rice,Kg,76.98,Medium,Flood,No,No,Thursday,1
+Winter,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,93.45,Low,Sunny,Yes,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,26.61,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Barishal,Edible Oil,Soybean Oil,L,170.84,Medium,Rainy,No,No,Sunday,0
+Winter,Khulna,Potato,Cold Storage Potato,Kg,25.43,Medium,Sunny,Yes,No,Friday,0
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,71.23,Medium,Sunny,Yes,No,Thursday,0
+Monsoon,Barishal,Rice,Najirshail Rice,Kg,62.43,High,Rainy,Yes,No,Friday,0
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,124.57,Medium,Rainy,No,Yes,Monday,1
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,136.42,Medium,Sunny,No,No,Thursday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,184.71,Medium,Sunny,No,No,Sunday,0
+Winter,Khulna,Potato,Cold Storage Potato,Kg,28.98,Medium,Sunny,No,No,Monday,0
+Winter,Barishal,Rice,Najirshail Rice,Kg,67.28,Medium,Sunny,No,No,Thursday,0
+Monsoon,Barishal,Lentil,Imported Lentil,Kg,114.06,High,Rainy,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,151.8,High,Rainy,No,Yes,Thursday,1
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,99.55,Medium,Sunny,Yes,No,Sunday,0
+Summer,Chattogram,Lentil,Local Lentil,Kg,116.83,Low,Sunny,Yes,No,Saturday,0
+Summer,Khulna,Onion,Indian Onion,Kg,57.22,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,71.77,Medium,Rainy,Yes,No,Tuesday,0
+Monsoon,Sylhet,Edible Oil,Palm Oil,L,197.27,Low,Sunny,No,No,Wednesday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,68.38,High,Rainy,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,31.03,Medium,Rainy,No,No,Friday,0
+Summer,Khulna,Rice,Miniket Rice,Kg,62.95,High,Sunny,Yes,No,Tuesday,0
+Monsoon,Sylhet,Onion,Local Onion,Kg,112.61,Low,Rainy,No,Yes,Friday,1
+Winter,Chattogram,Onion,Indian Onion,Kg,112.76,Low,Sunny,No,No,Saturday,1
+Monsoon,Khulna,Lentil,Imported Lentil,Kg,126.9,Medium,Rainy,Yes,Yes,Sunday,0
+Summer,Barishal,Garlic,Local Garlic,Kg,149.37,Medium,Sunny,No,No,Sunday,0
+Monsoon,Sylhet,Edible Oil,Soybean Oil,L,200.0,Low,Rainy,No,No,Wednesday,1
+Winter,Rajshahi,Lentil,Imported Lentil,Kg,129.16,Medium,Sunny,No,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,68.52,Medium,Rainy,No,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,74.18,Low,Rainy,Yes,No,Sunday,1
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,156.1,Low,Rainy,No,No,Wednesday,1
+Monsoon,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,33.97,Medium,Rainy,No,No,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,110.99,High,Rainy,No,No,Wednesday,0
+Summer,Sylhet,Potato,Cold Storage Potato,Kg,30.59,Medium,Sunny,No,No,Monday,0
+Summer,Sylhet,Garlic,Chinese Garlic,Kg,166.29,Medium,Sunny,No,No,Friday,0
+Monsoon,Sylhet,Onion,Indian Onion,Kg,90.22,Medium,Sunny,No,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Chinese Garlic,Kg,139.69,Medium,Sunny,No,No,Thursday,0
+Summer,Rajshahi,Edible Oil,Palm Oil,L,157.23,Medium,Sunny,Yes,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,58.38,Medium,Rainy,Yes,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,63.3,High,Sunny,Yes,No,Monday,0
+Summer,Chattogram,Lentil,Imported Lentil,Kg,125.27,High,Sunny,No,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,50.0,Medium,Sunny,Yes,No,Tuesday,0
+Summer,Sylhet,Rice,BR-28 Rice,Kg,69.87,Medium,Sunny,No,Yes,Sunday,0
+Winter,Chattogram,Garlic,Local Garlic,Kg,128.68,Medium,Sunny,Yes,No,Sunday,0
+Summer,Rajshahi,Lentil,Local Lentil,Kg,131.04,Medium,Sunny,No,Yes,Sunday,0
+Winter,Rajshahi,Edible Oil,Soybean Oil,L,145.55,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,109.48,Medium,Sunny,No,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Local Lentil,Kg,127.91,Medium,Sunny,No,Yes,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,176.79,Medium,Sunny,No,No,Saturday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,147.77,Medium,Sunny,Yes,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,150.49,High,Sunny,Yes,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,119.59,High,Sunny,No,No,Monday,0
+Summer,Chattogram,Onion,Indian Onion,Kg,88.8,Low,Rainy,No,Yes,Tuesday,1
+Monsoon,Khulna,Onion,Indian Onion,Kg,120.0,Low,Rainy,No,Yes,Tuesday,1
+Monsoon,Barishal,Rice,Miniket Rice,Kg,78.43,Low,Rainy,No,No,Friday,1
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,22.13,Medium,Sunny,Yes,No,Sunday,0
+Monsoon,Sylhet,Edible Oil,Soybean Oil,L,145.39,Medium,Rainy,No,No,Tuesday,0
+Winter,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,88.86,Medium,Sunny,Yes,No,Sunday,0
+Summer,Chattogram,Onion,Indian Onion,Kg,76.77,Medium,Sunny,Yes,Yes,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,142.17,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Barishal,Rice,Miniket Rice,Kg,80.0,Low,Rainy,No,No,Monday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,71.18,Medium,Rainy,No,No,Friday,0
+Monsoon,Khulna,Potato,Local Potato,Kg,35.3,Medium,Rainy,No,Yes,Wednesday,1
+Winter,Rajshahi,Potato,Cold Storage Potato,Kg,31.07,Medium,Sunny,No,No,Wednesday,0
+Summer,Chattogram,Garlic,Chinese Garlic,Kg,164.93,Medium,Sunny,No,Yes,Monday,0
+Monsoon,Rajshahi,Lentil,Imported Lentil,Kg,119.96,High,Flood,No,No,Tuesday,1
+Monsoon,Rajshahi,Onion,Indian Onion,Kg,103.48,Medium,Sunny,No,Yes,Saturday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,30.88,Medium,Sunny,No,No,Monday,0
+Monsoon,Barishal,Rice,Miniket Rice,Kg,57.25,High,Sunny,Yes,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,56.97,Medium,Rainy,Yes,No,Monday,0
+Summer,Rajshahi,Garlic,Local Garlic,Kg,164.02,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Chattogram,Edible Oil,Soybean Oil,L,161.46,Medium,Sunny,No,No,Monday,0
+Winter,Chattogram,Lentil,Local Lentil,Kg,123.39,Medium,Sunny,No,No,Friday,0
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,68.44,Medium,Rainy,No,No,Friday,0
+Monsoon,Chattogram,Rice,BR-28 Rice,Kg,71.71,Medium,Flood,No,No,Sunday,1
+Monsoon,Khulna,Onion,Indian Onion,Kg,74.77,High,Rainy,Yes,No,Saturday,0
+Summer,Rajshahi,Edible Oil,Soybean Oil,L,161.64,Medium,Sunny,No,Yes,Wednesday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,73.78,Medium,Rainy,Yes,Yes,Saturday,0
+Monsoon,Chattogram,Garlic,Local Garlic,Kg,144.04,Medium,Rainy,No,No,Tuesday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,32.8,Low,Sunny,No,No,Sunday,1
+Summer,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,30.64,High,Sunny,No,No,Wednesday,0
+Summer,Khulna,Rice,Najirshail Rice,Kg,69.07,Medium,Sunny,Yes,Yes,Wednesday,0
+Monsoon,Sylhet,Lentil,Imported Lentil,Kg,140.0,Medium,Flood,No,No,Tuesday,1
+Winter,Rajshahi,Potato,Local Potato,Kg,29.45,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Barishal,Edible Oil,Soybean Oil,L,196.84,Medium,Flood,No,No,Tuesday,1
+Summer,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,57.21,Medium,Rainy,Yes,No,Tuesday,0
+Winter,Rajshahi,Garlic,Chinese Garlic,Kg,156.02,Medium,Rainy,Yes,No,Tuesday,0
+Monsoon,Barishal,Edible Oil,Palm Oil,L,165.99,Medium,Rainy,No,No,Friday,0
+Summer,Rajshahi,Rice,Miniket Rice,Kg,70.69,Medium,Rainy,No,No,Tuesday,0
+Winter,Sylhet,Rice,Miniket Rice,Kg,67.48,Medium,Sunny,No,No,Wednesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,121.66,Medium,Rainy,Yes,No,Thursday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,76.96,High,Rainy,No,No,Sunday,1
+Monsoon,Khulna,Lentil,Local Lentil,Kg,106.4,High,Rainy,Yes,No,Thursday,0
+Summer,Khulna,Rice,Miniket Rice,Kg,57.56,Medium,Sunny,No,No,Thursday,0
+Winter,Khulna,Edible Oil,Soybean Oil,L,200.0,Low,Sunny,No,No,Thursday,1
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,78.22,Medium,Sunny,No,Yes,Saturday,0
+Summer,Chattogram,Rice,Najirshail Rice,Kg,57.14,Medium,Sunny,Yes,Yes,Sunday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,161.78,Medium,Sunny,No,No,Sunday,0
+Summer,Rajshahi,Rice,BR-28 Rice,Kg,57.58,Medium,Sunny,Yes,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Najirshail Rice,Kg,63.81,Low,Rainy,Yes,No,Monday,1
+Summer,Khulna,Edible Oil,Soybean Oil,L,166.07,High,Sunny,No,Yes,Sunday,0
+Winter,Chattogram,Lentil,Imported Lentil,Kg,122.75,Medium,Rainy,Yes,Yes,Monday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,30.22,Medium,Sunny,No,No,Tuesday,0
+Summer,Chattogram,Rice,Miniket Rice,Kg,59.19,High,Sunny,No,No,Tuesday,0
+Winter,Sylhet,Rice,Najirshail Rice,Kg,71.31,Medium,Sunny,No,No,Wednesday,0
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,37.31,Medium,Sunny,No,No,Thursday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,30.1,High,Sunny,Yes,Yes,Thursday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,178.12,Medium,Rainy,No,No,Friday,0
+Summer,Sylhet,Rice,Miniket Rice,Kg,61.34,High,Sunny,Yes,No,Friday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,123.82,Low,Sunny,No,No,Saturday,1
+Winter,Sylhet,Rice,Najirshail Rice,Kg,55.24,Medium,Sunny,Yes,No,Thursday,0
+Winter,Barishal,Lentil,Imported Lentil,Kg,119.56,Medium,Rainy,Yes,No,Tuesday,0
+Monsoon,Sylhet,Rice,Miniket Rice,Kg,70.99,Medium,Rainy,Yes,No,Friday,0
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,128.13,Medium,Rainy,No,No,Thursday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,30.38,High,Sunny,No,Yes,Monday,0
+Summer,Rajshahi,Potato,Local Potato,Kg,29.04,Medium,Sunny,No,No,Sunday,0
+Monsoon,Rajshahi,Rice,Miniket Rice,Kg,62.96,Medium,Rainy,No,No,Tuesday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,68.84,High,Rainy,No,No,Saturday,0
+Summer,Rajshahi,Lentil,Imported Lentil,Kg,117.58,Medium,Rainy,No,No,Monday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,34.91,Medium,Rainy,Yes,No,Thursday,0
+Monsoon,Khulna,Rice,Miniket Rice,Kg,72.28,Medium,Flood,No,No,Friday,1
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,172.16,Medium,Rainy,No,No,Thursday,0
+Monsoon,Rajshahi,Potato,Cold Storage Potato,Kg,31.24,High,Rainy,No,No,Thursday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,154.6,Medium,Sunny,Yes,No,Saturday,0
+Summer,Sylhet,Garlic,Chinese Garlic,Kg,124.25,High,Sunny,Yes,No,Saturday,0
+Summer,Chattogram,Onion,Indian Onion,Kg,87.42,Low,Rainy,No,No,Tuesday,1
+Winter,Chattogram,Rice,BR-28 Rice,Kg,58.88,High,Sunny,Yes,No,Monday,0
+Summer,Khulna,Edible Oil,Palm Oil,L,153.59,Medium,Sunny,No,No,Thursday,0
+Monsoon,Chattogram,Rice,Miniket Rice,Kg,79.15,Medium,Rainy,No,No,Sunday,1
+Monsoon,Sylhet,Garlic,Local Garlic,Kg,173.63,Medium,Rainy,Yes,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,45.09,High,Sunny,Yes,No,Tuesday,0
+Winter,Sylhet,Edible Oil,Soybean Oil,L,153.29,Medium,Rainy,Yes,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,102.08,Medium,Sunny,Yes,No,Saturday,0
+Winter,Rajshahi,Edible Oil,Soybean Oil,L,140.59,High,Rainy,Yes,No,Saturday,0
+Winter,Khulna,Rice,Najirshail Rice,Kg,72.06,High,Sunny,No,No,Wednesday,0
+Winter,Barishal,Onion,Local Onion,Kg,75.99,Medium,Sunny,No,No,Wednesday,0
+Summer,Khulna,Potato,Cold Storage Potato,Kg,24.57,High,Sunny,Yes,No,Sunday,0
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,80.0,Medium,Rainy,No,No,Tuesday,1
+Summer,Sylhet,Edible Oil,Soybean Oil,L,172.57,Medium,Sunny,No,No,Wednesday,0
+Summer,Rajshahi,Edible Oil,Palm Oil,L,161.71,Medium,Sunny,No,No,Tuesday,0
+Winter,Sylhet,Edible Oil,Palm Oil,L,174.86,High,Rainy,No,No,Monday,0
+Winter,Barishal,Rice,Miniket Rice,Kg,63.03,High,Sunny,Yes,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Onion,Local Onion,Kg,81.38,Medium,Rainy,Yes,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,77.94,High,Sunny,Yes,No,Monday,0
+Summer,Chattogram,Rice,Miniket Rice,Kg,70.74,Low,Rainy,Yes,No,Friday,1
+Monsoon,Rajshahi,Edible Oil,Soybean Oil,L,169.68,Low,Rainy,No,No,Sunday,1
+Summer,Sylhet,Edible Oil,Palm Oil,L,158.88,Medium,Sunny,Yes,No,Monday,0
+Summer,Barishal,Garlic,Chinese Garlic,Kg,143.17,High,Sunny,Yes,No,Sunday,0
+Winter,Barishal,Onion,Indian Onion,Kg,66.87,Medium,Sunny,Yes,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,72.74,High,Rainy,No,No,Tuesday,0
+Summer,Sylhet,Onion,Local Onion,Kg,82.55,High,Sunny,Yes,No,Friday,0
+Winter,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,175.49,Medium,Rainy,No,Yes,Wednesday,1
+Winter,Chattogram,Garlic,Local Garlic,Kg,172.11,Medium,Sunny,No,No,Thursday,0
+Monsoon,Sylhet,Onion,Local Onion,Kg,105.61,Medium,Rainy,No,No,Saturday,0
+Winter,Chattogram,Onion,Indian Onion,Kg,53.22,Medium,Sunny,No,No,Saturday,0
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,28.08,High,Rainy,Yes,Yes,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,181.82,High,Sunny,No,Yes,Wednesday,0
+Monsoon,Rajshahi,Potato,Local Potato,Kg,30.58,High,Rainy,No,No,Thursday,0
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,40.0,Low,Rainy,No,No,Friday,1
+Winter,Chattogram,Rice,Miniket Rice,Kg,70.6,Medium,Sunny,No,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,126.28,High,Sunny,Yes,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,120.14,Low,Rainy,Yes,No,Wednesday,1
+Monsoon,Khulna,Garlic,Local Garlic,Kg,179.44,Medium,Rainy,No,Yes,Sunday,1
+Summer,Barishal,Potato,Local Potato,Kg,29.94,Low,Sunny,No,No,Sunday,1
+Monsoon,Sylhet,Potato,Cold Storage Potato,Kg,30.9,Medium,Sunny,No,No,Friday,0
+Monsoon,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,181.99,Medium,Sunny,No,Yes,Monday,0
+Monsoon,Sylhet,Lentil,Local Lentil,Kg,100.77,High,Sunny,No,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Potato,Local Potato,Kg,31.73,Medium,Sunny,No,No,Tuesday,0
+Winter,Chattogram,Lentil,Imported Lentil,Kg,117.75,Medium,Sunny,No,No,Wednesday,0
+Monsoon,Rajshahi,Potato,Cold Storage Potato,Kg,36.49,Medium,Rainy,Yes,No,Sunday,0
+Winter,Barishal,Rice,Najirshail Rice,Kg,59.49,Medium,Sunny,Yes,No,Saturday,0
+Winter,Khulna,Garlic,Local Garlic,Kg,167.6,Medium,Rainy,Yes,No,Monday,0
+Monsoon,Rajshahi,Rice,BR-28 Rice,Kg,76.23,Low,Rainy,No,No,Friday,1
+Summer,Rajshahi,Lentil,Local Lentil,Kg,94.61,Medium,Sunny,Yes,No,Monday,0
+Monsoon,Chattogram,Lentil,Imported Lentil,Kg,108.2,Medium,Sunny,No,No,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,BR-28 Rice,Kg,80.0,Low,Rainy,No,Yes,Friday,1
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,144.26,High,Sunny,Yes,No,Friday,0
+Summer,Rajshahi,Rice,BR-28 Rice,Kg,80.0,Low,Flood,Yes,Yes,Sunday,1
+Winter,Khulna,Onion,Local Onion,Kg,97.87,Medium,Sunny,No,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,180.65,Medium,Sunny,No,No,Monday,0
+Summer,Karwan Bazar (Dhaka),Garlic,Local Garlic,Kg,148.58,Medium,Sunny,Yes,No,Sunday,0
+Summer,Chattogram,Potato,Local Potato,Kg,37.03,Low,Rainy,Yes,Yes,Friday,1
+Summer,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,126.36,High,Sunny,No,No,Wednesday,0
+Monsoon,Chattogram,Onion,Indian Onion,Kg,80.59,High,Rainy,No,Yes,Saturday,1
+Monsoon,Khulna,Garlic,Chinese Garlic,Kg,141.6,Medium,Rainy,No,No,Friday,0
+Monsoon,Barishal,Edible Oil,Soybean Oil,L,159.71,High,Rainy,No,Yes,Tuesday,1
+Winter,Barishal,Rice,BR-28 Rice,Kg,59.21,High,Sunny,Yes,Yes,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Rice,Miniket Rice,Kg,51.37,High,Sunny,Yes,No,Friday,0
+Monsoon,Chattogram,Rice,Najirshail Rice,Kg,64.23,Medium,Rainy,Yes,No,Tuesday,0
+Monsoon,Khulna,Edible Oil,Soybean Oil,L,177.38,Medium,Rainy,No,No,Tuesday,0
+Winter,Chattogram,Potato,Cold Storage Potato,Kg,32.67,High,Sunny,No,No,Monday,0
+Winter,Barishal,Garlic,Chinese Garlic,Kg,171.32,Medium,Rainy,Yes,No,Saturday,0
+Monsoon,Karwan Bazar (Dhaka),Lentil,Imported Lentil,Kg,130.73,Medium,Rainy,No,No,Sunday,0
+Monsoon,Rajshahi,Edible Oil,Palm Oil,L,159.31,Medium,Rainy,No,No,Friday,0
+Winter,Chattogram,Lentil,Imported Lentil,Kg,115.0,Medium,Sunny,Yes,No,Saturday,0
+Monsoon,Chattogram,Lentil,Local Lentil,Kg,140.0,Low,Rainy,No,Yes,Friday,1
+Summer,Chattogram,Onion,Local Onion,Kg,87.4,Medium,Sunny,Yes,Yes,Monday,0
+Winter,Barishal,Rice,Miniket Rice,Kg,50.77,High,Rainy,Yes,No,Thursday,0
+Summer,Rajshahi,Onion,Local Onion,Kg,92.74,Medium,Sunny,Yes,No,Saturday,0
+Winter,Barishal,Onion,Indian Onion,Kg,68.14,Medium,Sunny,No,No,Saturday,0
+Summer,Sylhet,Rice,Miniket Rice,Kg,69.29,Medium,Rainy,Yes,Yes,Monday,0
+Winter,Rajshahi,Lentil,Imported Lentil,Kg,110.26,High,Sunny,Yes,Yes,Tuesday,0
+Monsoon,Karwan Bazar (Dhaka),Onion,Indian Onion,Kg,87.24,Low,Rainy,No,No,Friday,1
+Summer,Khulna,Potato,Cold Storage Potato,Kg,37.77,Medium,Sunny,No,Yes,Monday,1
+Monsoon,Sylhet,Onion,Local Onion,Kg,90.91,Low,Rainy,No,No,Monday,1
+Summer,Sylhet,Rice,BR-28 Rice,Kg,80.0,Medium,Sunny,No,Yes,Monday,1
+Monsoon,Chattogram,Potato,Cold Storage Potato,Kg,36.51,High,Rainy,No,No,Sunday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Palm Oil,L,189.11,Low,Sunny,No,Yes,Sunday,1
+Summer,Rajshahi,Edible Oil,Soybean Oil,L,191.94,Medium,Sunny,No,No,Monday,0
+Summer,Barishal,Rice,Miniket Rice,Kg,80.0,Low,Sunny,No,Yes,Sunday,1
+Summer,Chattogram,Potato,Cold Storage Potato,Kg,27.86,Medium,Sunny,Yes,No,Saturday,0
+Winter,Karwan Bazar (Dhaka),Potato,Cold Storage Potato,Kg,26.25,Medium,Rainy,Yes,No,Tuesday,0
+Summer,Karwan Bazar (Dhaka),Edible Oil,Soybean Oil,L,163.14,Medium,Rainy,Yes,No,Saturday,0

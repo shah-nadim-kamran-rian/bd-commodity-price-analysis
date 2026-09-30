@@ -1,0 +1,19 @@
+commodity,stock_level,stock_order,observations,avg_price,min_price,max_price,std_dev
+Edible Oil,Low,1,64,187.3,144.0,200.0,14.02
+Edible Oil,Medium,2,148,169.01,130.4,200.0,16.23
+Edible Oil,High,3,67,158.28,123.95,192.86,16.43
+Garlic,Low,1,46,172.6,137.28,200.0,18.84
+Garlic,Medium,2,159,156.56,100.0,200.0,20.2
+Garlic,High,3,59,148.4,112.67,197.63,19.13
+Lentil,Low,1,67,132.16,112.81,140.0,8.03
+Lentil,Medium,2,178,120.93,94.61,140.0,11.58
+Lentil,High,3,67,114.37,91.21,139.68,11.07
+Onion,Low,1,78,91.89,46.18,120.0,15.99
+Onion,Medium,2,160,84.38,51.76,120.0,14.89
+Onion,High,3,73,82.73,45.09,115.71,14.69
+Potato,Low,1,61,34.24,24.08,40.0,3.89
+Potato,Medium,2,169,31.14,20.92,40.0,3.94
+Potato,High,3,92,29.8,20.0,40.0,3.98
+Rice,Low,1,92,73.95,54.56,80.0,5.97
+Rice,Medium,2,236,67.38,50.0,80.0,6.65
+Rice,High,3,84,63.09,50.0,78.4,6.02
