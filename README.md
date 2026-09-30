@@ -98,7 +98,7 @@ Average purchase price by stock level:
 - **Explorer:** pick a commodity from a dropdown to see prices by market and stock level, calculated live with AVERAGEIFS, COUNTIFS and SUMPRODUCT
 - One sheet per SQL query, the clean data as an Excel table and a notes sheet with definitions
 
-Details are in [docs/excel_dashboard_guide.md](docs/excel_dashboard_guide.md).
+
 
 ![Dashboard overview](dashboard/dashboard_overview.png)
 
@@ -125,12 +125,4 @@ Details are in [docs/excel_dashboard_guide.md](docs/excel_dashboard_guide.md).
 - Stock level, weather and season can overlap, so these results show association, not cause.
 - Some market and stock level combinations have only a few rows. Check n_low and n_high in q5 before reading too much into a single market.
 
-## Next steps
 
-- Add dated price data, such as the daily market price lists published by the Trading Corporation of Bangladesh (TCB), to measure real price movement over time.
-- Fit a regression with stock level, weather and season together to separate their effects.
-- Compare the 15% anomaly rule with a statistical method such as a robust z-score.
-
-## License
-
-The code is under the MIT License. The dataset keeps the license of its original source.
